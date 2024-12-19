@@ -9,167 +9,167 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = AuroBank_SoftwareProject
 build_property.RootNamespace = AuroBank_SoftwareProject
-build_property.ProjectDir = C:\Users\Riaan\Desktop\Web_Mobile Apps\Web\Projects\AuroBank_SoftwareProject\AuroBank_SoftwareProject\AuroBank_SoftwareProject\
+build_property.ProjectDir = C:\Users\Riaan\Desktop\AuroBank_SoftwareProject\AuroBank_SoftwareProject\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\Riaan\Desktop\Web_Mobile Apps\Web\Projects\AuroBank_SoftwareProject\AuroBank_SoftwareProject\AuroBank_SoftwareProject
+build_property.MSBuildProjectDirectory = C:\Users\Riaan\Desktop\AuroBank_SoftwareProject\AuroBank_SoftwareProject
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/Riaan/Desktop/Web_Mobile Apps/Web/Projects/AuroBank_SoftwareProject/AuroBank_SoftwareProject/AuroBank_SoftwareProject/Views/Account/AccessDenied.cshtml]
+[C:/Users/Riaan/Desktop/AuroBank_SoftwareProject/AuroBank_SoftwareProject/Views/Account/AccessDenied.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxBY2Nlc3NEZW5pZWQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Riaan/Desktop/Web_Mobile Apps/Web/Projects/AuroBank_SoftwareProject/AuroBank_SoftwareProject/AuroBank_SoftwareProject/Views/Account/Login.cshtml]
+[C:/Users/Riaan/Desktop/AuroBank_SoftwareProject/AuroBank_SoftwareProject/Views/Account/Login.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxMb2dpbi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Riaan/Desktop/Web_Mobile Apps/Web/Projects/AuroBank_SoftwareProject/AuroBank_SoftwareProject/AuroBank_SoftwareProject/Views/Account/Register.cshtml]
+[C:/Users/Riaan/Desktop/AuroBank_SoftwareProject/AuroBank_SoftwareProject/Views/Account/Register.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxSZWdpc3Rlci5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Riaan/Desktop/Web_Mobile Apps/Web/Projects/AuroBank_SoftwareProject/AuroBank_SoftwareProject/AuroBank_SoftwareProject/Views/Admin/Consultants.cshtml]
+[C:/Users/Riaan/Desktop/AuroBank_SoftwareProject/AuroBank_SoftwareProject/Views/Admin/Consultants.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cQ29uc3VsdGFudHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Riaan/Desktop/Web_Mobile Apps/Web/Projects/AuroBank_SoftwareProject/AuroBank_SoftwareProject/AuroBank_SoftwareProject/Views/Admin/Deposit.cshtml]
+[C:/Users/Riaan/Desktop/AuroBank_SoftwareProject/AuroBank_SoftwareProject/Views/Admin/Deposit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cRGVwb3NpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Riaan/Desktop/Web_Mobile Apps/Web/Projects/AuroBank_SoftwareProject/AuroBank_SoftwareProject/AuroBank_SoftwareProject/Views/Admin/DepositWithdraw.cshtml]
+[C:/Users/Riaan/Desktop/AuroBank_SoftwareProject/AuroBank_SoftwareProject/Views/Admin/DepositWithdraw.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cRGVwb3NpdFdpdGhkcmF3LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Riaan/Desktop/Web_Mobile Apps/Web/Projects/AuroBank_SoftwareProject/AuroBank_SoftwareProject/AuroBank_SoftwareProject/Views/Admin/Index.cshtml]
+[C:/Users/Riaan/Desktop/AuroBank_SoftwareProject/AuroBank_SoftwareProject/Views/Admin/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Riaan/Desktop/Web_Mobile Apps/Web/Projects/AuroBank_SoftwareProject/AuroBank_SoftwareProject/AuroBank_SoftwareProject/Views/Admin/Login.cshtml]
+[C:/Users/Riaan/Desktop/AuroBank_SoftwareProject/AuroBank_SoftwareProject/Views/Admin/Login.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cTG9naW4uY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Riaan/Desktop/Web_Mobile Apps/Web/Projects/AuroBank_SoftwareProject/AuroBank_SoftwareProject/AuroBank_SoftwareProject/Views/Admin/ManageUser.cshtml]
+[C:/Users/Riaan/Desktop/AuroBank_SoftwareProject/AuroBank_SoftwareProject/Views/Admin/ManageUser.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cTWFuYWdlVXNlci5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Riaan/Desktop/Web_Mobile Apps/Web/Projects/AuroBank_SoftwareProject/AuroBank_SoftwareProject/AuroBank_SoftwareProject/Views/Admin/Users.cshtml]
+[C:/Users/Riaan/Desktop/AuroBank_SoftwareProject/AuroBank_SoftwareProject/Views/Admin/Users.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cVXNlcnMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Riaan/Desktop/Web_Mobile Apps/Web/Projects/AuroBank_SoftwareProject/AuroBank_SoftwareProject/AuroBank_SoftwareProject/Views/Admin/ViewAdvices.cshtml]
+[C:/Users/Riaan/Desktop/AuroBank_SoftwareProject/AuroBank_SoftwareProject/Views/Admin/ViewAdvices.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cVmlld0FkdmljZXMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Riaan/Desktop/Web_Mobile Apps/Web/Projects/AuroBank_SoftwareProject/AuroBank_SoftwareProject/AuroBank_SoftwareProject/Views/Admin/ViewAllLogins.cshtml]
+[C:/Users/Riaan/Desktop/AuroBank_SoftwareProject/AuroBank_SoftwareProject/Views/Admin/ViewAllLogins.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cVmlld0FsbExvZ2lucy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Riaan/Desktop/Web_Mobile Apps/Web/Projects/AuroBank_SoftwareProject/AuroBank_SoftwareProject/AuroBank_SoftwareProject/Views/Admin/WithDraw.cshtml]
+[C:/Users/Riaan/Desktop/AuroBank_SoftwareProject/AuroBank_SoftwareProject/Views/Admin/WithDraw.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cV2l0aERyYXcuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Riaan/Desktop/Web_Mobile Apps/Web/Projects/AuroBank_SoftwareProject/AuroBank_SoftwareProject/AuroBank_SoftwareProject/Views/Advisor/Advice.cshtml]
+[C:/Users/Riaan/Desktop/AuroBank_SoftwareProject/AuroBank_SoftwareProject/Views/Advisor/Advice.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWR2aXNvclxBZHZpY2UuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Riaan/Desktop/Web_Mobile Apps/Web/Projects/AuroBank_SoftwareProject/AuroBank_SoftwareProject/AuroBank_SoftwareProject/Views/Advisor/Index.cshtml]
+[C:/Users/Riaan/Desktop/AuroBank_SoftwareProject/AuroBank_SoftwareProject/Views/Advisor/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWR2aXNvclxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Riaan/Desktop/Web_Mobile Apps/Web/Projects/AuroBank_SoftwareProject/AuroBank_SoftwareProject/AuroBank_SoftwareProject/Views/Advisor/MyAdvice.cshtml]
+[C:/Users/Riaan/Desktop/AuroBank_SoftwareProject/AuroBank_SoftwareProject/Views/Advisor/MyAdvice.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWR2aXNvclxNeUFkdmljZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Riaan/Desktop/Web_Mobile Apps/Web/Projects/AuroBank_SoftwareProject/AuroBank_SoftwareProject/AuroBank_SoftwareProject/Views/Client/AddComplain.cshtml]
+[C:/Users/Riaan/Desktop/AuroBank_SoftwareProject/AuroBank_SoftwareProject/Views/Client/AddComplain.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50XEFkZENvbXBsYWluLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Riaan/Desktop/Web_Mobile Apps/Web/Projects/AuroBank_SoftwareProject/AuroBank_SoftwareProject/AuroBank_SoftwareProject/Views/Client/AddRating.cshtml]
+[C:/Users/Riaan/Desktop/AuroBank_SoftwareProject/AuroBank_SoftwareProject/Views/Client/AddRating.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50XEFkZFJhdGluZy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Riaan/Desktop/Web_Mobile Apps/Web/Projects/AuroBank_SoftwareProject/AuroBank_SoftwareProject/AuroBank_SoftwareProject/Views/Client/Index.cshtml]
+[C:/Users/Riaan/Desktop/AuroBank_SoftwareProject/AuroBank_SoftwareProject/Views/Client/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50XEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Riaan/Desktop/Web_Mobile Apps/Web/Projects/AuroBank_SoftwareProject/AuroBank_SoftwareProject/AuroBank_SoftwareProject/Views/Client/NotFound.cshtml]
+[C:/Users/Riaan/Desktop/AuroBank_SoftwareProject/AuroBank_SoftwareProject/Views/Client/NotFound.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50XE5vdEZvdW5kLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Riaan/Desktop/Web_Mobile Apps/Web/Projects/AuroBank_SoftwareProject/AuroBank_SoftwareProject/AuroBank_SoftwareProject/Views/Client/Notifications.cshtml]
+[C:/Users/Riaan/Desktop/AuroBank_SoftwareProject/AuroBank_SoftwareProject/Views/Client/Notifications.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50XE5vdGlmaWNhdGlvbnMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Riaan/Desktop/Web_Mobile Apps/Web/Projects/AuroBank_SoftwareProject/AuroBank_SoftwareProject/AuroBank_SoftwareProject/Views/Client/Profile.cshtml]
+[C:/Users/Riaan/Desktop/AuroBank_SoftwareProject/AuroBank_SoftwareProject/Views/Client/Profile.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50XFByb2ZpbGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Riaan/Desktop/Web_Mobile Apps/Web/Projects/AuroBank_SoftwareProject/AuroBank_SoftwareProject/AuroBank_SoftwareProject/Views/Client/Transactions.cshtml]
+[C:/Users/Riaan/Desktop/AuroBank_SoftwareProject/AuroBank_SoftwareProject/Views/Client/Transactions.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50XFRyYW5zYWN0aW9ucy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Riaan/Desktop/Web_Mobile Apps/Web/Projects/AuroBank_SoftwareProject/AuroBank_SoftwareProject/AuroBank_SoftwareProject/Views/Client/TransferMoneyView.cshtml]
+[C:/Users/Riaan/Desktop/AuroBank_SoftwareProject/AuroBank_SoftwareProject/Views/Client/TransferMoneyView.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50XFRyYW5zZmVyTW9uZXlWaWV3LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Riaan/Desktop/Web_Mobile Apps/Web/Projects/AuroBank_SoftwareProject/AuroBank_SoftwareProject/AuroBank_SoftwareProject/Views/Client/TransferSuccess.cshtml]
+[C:/Users/Riaan/Desktop/AuroBank_SoftwareProject/AuroBank_SoftwareProject/Views/Client/TransferSuccess.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50XFRyYW5zZmVyU3VjY2Vzcy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Riaan/Desktop/Web_Mobile Apps/Web/Projects/AuroBank_SoftwareProject/AuroBank_SoftwareProject/AuroBank_SoftwareProject/Views/Consultant/DeposiitWithdraw.cshtml]
+[C:/Users/Riaan/Desktop/AuroBank_SoftwareProject/AuroBank_SoftwareProject/Views/Consultant/DeposiitWithdraw.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29uc3VsdGFudFxEZXBvc2lpdFdpdGhkcmF3LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Riaan/Desktop/Web_Mobile Apps/Web/Projects/AuroBank_SoftwareProject/AuroBank_SoftwareProject/AuroBank_SoftwareProject/Views/Consultant/Deposit.cshtml]
+[C:/Users/Riaan/Desktop/AuroBank_SoftwareProject/AuroBank_SoftwareProject/Views/Consultant/Deposit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29uc3VsdGFudFxEZXBvc2l0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Riaan/Desktop/Web_Mobile Apps/Web/Projects/AuroBank_SoftwareProject/AuroBank_SoftwareProject/AuroBank_SoftwareProject/Views/Consultant/Index.cshtml]
+[C:/Users/Riaan/Desktop/AuroBank_SoftwareProject/AuroBank_SoftwareProject/Views/Consultant/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29uc3VsdGFudFxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Riaan/Desktop/Web_Mobile Apps/Web/Projects/AuroBank_SoftwareProject/AuroBank_SoftwareProject/AuroBank_SoftwareProject/Views/Consultant/ManageUser.cshtml]
+[C:/Users/Riaan/Desktop/AuroBank_SoftwareProject/AuroBank_SoftwareProject/Views/Consultant/ManageUser.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29uc3VsdGFudFxNYW5hZ2VVc2VyLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Riaan/Desktop/Web_Mobile Apps/Web/Projects/AuroBank_SoftwareProject/AuroBank_SoftwareProject/AuroBank_SoftwareProject/Views/Consultant/ViewAllLogins.cshtml]
+[C:/Users/Riaan/Desktop/AuroBank_SoftwareProject/AuroBank_SoftwareProject/Views/Consultant/ViewAllLogins.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29uc3VsdGFudFxWaWV3QWxsTG9naW5zLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Riaan/Desktop/Web_Mobile Apps/Web/Projects/AuroBank_SoftwareProject/AuroBank_SoftwareProject/AuroBank_SoftwareProject/Views/Consultant/ViewReviews.cshtml]
+[C:/Users/Riaan/Desktop/AuroBank_SoftwareProject/AuroBank_SoftwareProject/Views/Consultant/ViewReviews.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29uc3VsdGFudFxWaWV3UmV2aWV3cy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Riaan/Desktop/Web_Mobile Apps/Web/Projects/AuroBank_SoftwareProject/AuroBank_SoftwareProject/AuroBank_SoftwareProject/Views/Consultant/Withdraw.cshtml]
+[C:/Users/Riaan/Desktop/AuroBank_SoftwareProject/AuroBank_SoftwareProject/Views/Consultant/Withdraw.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29uc3VsdGFudFxXaXRoZHJhdy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Riaan/Desktop/Web_Mobile Apps/Web/Projects/AuroBank_SoftwareProject/AuroBank_SoftwareProject/AuroBank_SoftwareProject/Views/Home/About.cshtml]
+[C:/Users/Riaan/Desktop/AuroBank_SoftwareProject/AuroBank_SoftwareProject/Views/Home/About.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxBYm91dC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Riaan/Desktop/Web_Mobile Apps/Web/Projects/AuroBank_SoftwareProject/AuroBank_SoftwareProject/AuroBank_SoftwareProject/Views/Home/Index.cshtml]
+[C:/Users/Riaan/Desktop/AuroBank_SoftwareProject/AuroBank_SoftwareProject/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Riaan/Desktop/Web_Mobile Apps/Web/Projects/AuroBank_SoftwareProject/AuroBank_SoftwareProject/AuroBank_SoftwareProject/Views/Home/Services.cshtml]
+[C:/Users/Riaan/Desktop/AuroBank_SoftwareProject/AuroBank_SoftwareProject/Views/Home/Services.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxTZXJ2aWNlcy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Riaan/Desktop/Web_Mobile Apps/Web/Projects/AuroBank_SoftwareProject/AuroBank_SoftwareProject/AuroBank_SoftwareProject/Views/Shared/_AdminLayout1.cshtml]
+[C:/Users/Riaan/Desktop/AuroBank_SoftwareProject/AuroBank_SoftwareProject/Views/Shared/_AdminLayout1.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9BZG1pbkxheW91dDEuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Riaan/Desktop/Web_Mobile Apps/Web/Projects/AuroBank_SoftwareProject/AuroBank_SoftwareProject/AuroBank_SoftwareProject/Views/Shared/_Layout.cshtml]
+[C:/Users/Riaan/Desktop/AuroBank_SoftwareProject/AuroBank_SoftwareProject/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Riaan/Desktop/Web_Mobile Apps/Web/Projects/AuroBank_SoftwareProject/AuroBank_SoftwareProject/AuroBank_SoftwareProject/Views/_ViewImports.cshtml]
+[C:/Users/Riaan/Desktop/AuroBank_SoftwareProject/AuroBank_SoftwareProject/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Riaan/Desktop/Web_Mobile Apps/Web/Projects/AuroBank_SoftwareProject/AuroBank_SoftwareProject/AuroBank_SoftwareProject/Views/_ViewStart.cshtml]
+[C:/Users/Riaan/Desktop/AuroBank_SoftwareProject/AuroBank_SoftwareProject/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
