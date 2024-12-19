@@ -1,0 +1,18 @@
+﻿@{
+    ViewBag.Title = "Withdraw Funds";
+    var userEmail = ViewBag.UserEmail;
+}
+
+<div class="container mt-4">
+    <h2>Withdraw Funds for @userEmail</h2>
+    <form method="post" action="@Url.Action("Withdraw", "Consultant")">
+        <input type="hidden" name="email" value="@userEmail" />
+        <div class="mb-3">
+            <label for="amount" class="form-label">Withdraw Amount</label>
+            <input type="number" class="form-control" id="amount" name="amount" step="0.01" min="0" required />
+        </div>
+        <button type="submit" class="btn btn-primary">Withdraw</button>
+    </form>
+</div>
+
+

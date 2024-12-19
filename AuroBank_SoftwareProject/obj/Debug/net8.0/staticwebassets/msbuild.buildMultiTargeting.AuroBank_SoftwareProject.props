@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\AuroBank_SoftwareProject.props" />
+</Project>

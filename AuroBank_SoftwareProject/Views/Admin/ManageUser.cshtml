@@ -1,0 +1,55 @@
+﻿@model ConsultantUpdateUserModel
+
+<div class="container d-flex justify-content-center mt-2">
+    <div class="col-md-6">
+        <h2 class="display-5 mb-4 fw-bold">Update User Profile</h2>
+
+        <form asp-action="ManageUser" asp-controller="Admin" method="post">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <table class="table">
+                <tbody>
+                    <tr>
+                        <td><label asp-for="Email" class="control-label">Email</label></td>
+                        <td><input asp-for="Email" readonly class="form-control" /></td>
+                    </tr>
+                    <tr>
+                        <td><label asp-for="LastName" class="control-label">Lastname</label></td>
+                        <td><input asp-for="LastName" class="form-control" /></td>
+                    </tr>
+                    <tr>
+                        <td><label asp-for="FirstName" class="control-label">Firstname</label></td>
+                        <td><input asp-for="FirstName" class="form-control" /></td>
+                    </tr>
+                    <tr>
+                        <td><label asp-for="MobileNumber" class="control-label">Mobile Number</label></td>
+                        <td><input asp-for="MobileNumber" class="form-control" /></td>
+                    </tr>
+                    <tr>
+                        <td><label asp-for="ResidentialAddress" class="control-label">Residential Address</label></td>
+                        <td><input asp-for="ResidentialAddress" class="form-control" /></td>
+                    </tr>
+                    <tr>
+                        <td colspan="2">
+                            <h4 class="mt-3 mb-2 fw-bold">Change User Password</h4>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td><label asp-for="Password" class="control-label">Password</label></td>
+                        <td><input asp-for="Password" class="form-control" /></td>
+                    </tr>
+                    <tr>
+                        <td><label asp-for="ConfirmPassword" class="control-label">Confirm Password</label></td>
+                        <td><input asp-for="ConfirmPassword" class="form-control" /></td>
+                    </tr>
+                </tbody>
+            </table>
+
+            <input asp-for="Email" class="form-control" hidden />
+
+            <div class="mt-4 form-group d-flex justify-content-end">
+                <button type="submit" class="btn btn-primary">Update</button>
+            </div>
+        </form>
+    </div>
+</div>
+

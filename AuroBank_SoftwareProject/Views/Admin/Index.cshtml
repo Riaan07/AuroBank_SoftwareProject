@@ -1,0 +1,128 @@
+﻿@model IndexPageViewModel
+@{
+    ViewData["Title"] = "Admin Dashboard";
+}
+<div class="container mt-4">
+    @if (TempData["Message"] != null)
+    {
+        <div class="alert alert-success alert-dismissible fade show">
+            <button class="btn-close" aria-label="Close" data-bs-dismiss="alert"></button>
+            @TempData["Message"]
+        </div>
+    }
+
+    <h3 class="mb-2 mt-2 display-5">
+        Administrator
+        <a class="btn btn-primary m-2" asp-action="GenerateReport" asp-controller="Consultant">Generate Report</a>
+    </h3>
+
+    <div class="row">
+        <div class="col-md-3">
+            <div class="nav flex-column nav-pills bg-success p-3">
+                <a class="nav-link @(Model.CurrentPage == "index" ? "active" : "")" asp-action="Index" asp-route-currentPage="index" asp-controller="Admin">
+                    View Clients
+                </a>
+                <a class="nav-link @(Model.CurrentPage == "consultants" ? "active" : "")" asp-action="Index" asp-route-currentPage="consultants" asp-controller="Admin">
+                    View Consultants
+                </a>
+                <a class="nav-link @(Model.CurrentPage == "advisor" ? "active" : "")" asp-action="Index" asp-route-currentPage="advisor" asp-controller="Admin">
+                    View Financial Advisors
+                </a>
+                <a class="nav-link @(Model.CurrentPage == "transactions" ? "active" : "")" asp-action="Index" asp-route-currentPage="transactions" asp-controller="Admin">
+                    View All Transactions
+                </a>
+            </div>
+        </div>
+
+        <div class="col-md-9 mt-3">
+            @if (Model.CurrentPage == "index" || Model.CurrentPage == "consultants" || Model.CurrentPage == "advisor")
+            {
+                var selectedUsers = Model.CurrentPage == "index" ? Model.Users : Model.CurrentPage == "consultants" ? Model.Consultants : Model.Advisors;
+                <h3>@(Model.CurrentPage == "index" ? "Clients" : Model.CurrentPage == "consultants" ? "Consultants" : "Advisors")</h3>
+                @if (selectedUsers.Count() > 0)
+                {
+                    <div class="row">
+                        @foreach (var user in selectedUsers)
+                        {
+                            <div class="col-md-3 mb-4">
+                                <div class="card">
+                                    <div class="card-body">
+                                        <h5 class="card-title">@user.FirstName @user.LastName</h5>
+                                        <p class="card-text"><strong>Email:</strong> @user.Email</p>
+                                        <p class="card-text"><strong>Account No:</strong> @user.AccountNumber</p>
+                                        <a class="btn btn-outline-warning btn-sm" asp-action="Deposit" asp-route-email="@user.Email">
+                                            <i class="fa-solid fa-money-bill-wave"></i> Deposit
+                                        </a>
+                                        <a class="btn btn-outline-danger btn-sm" asp-action="Withdraw" asp-route-email="@user.Email">
+                                            <i class="fa-solid fa-money-bill-wave"></i> Withdraw
+                                        </a>
+                                        <div class="mt-2">
+                                            <a class="btn btn-outline-success btn-sm" asp-action="ViewAllLogins" asp-controller="Admin" asp-route-email="@user.Email">
+                                                <i class="fa fa-key">Logins </i>
+                                            </a>
+                                            <a class="btn btn-warning btn-sm" asp-action="ManageUser" asp-controller="Admin" asp-route-email="@user.Email">
+                                                <span class="fa fa-edit">Edit User</span>
+                                            </a>
+                                            <form asp-action="AdminDeleteUser" asp-controller="Admin" method="post" onsubmit="return confirm('Are you sure you want to delete user: @user.Email?');">
+                                                <input type="hidden" name="email" value="@user.Email" />
+                                                <button type="submit" class="btn btn-danger btn-sm">
+                                                    <span class="fa-solid fa-trash"></span> Delete
+                                                </button>
+                                            </form>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        }
+                    </div>
+                }
+                else
+                {
+                    <div class="text-center m-3 p-3">
+                        <img class="img-fluid" style="height: 300px!important;width: 340px!important;" src="/images/nothing.png" />
+                        <h1 class="fw-bold">No users found</h1>
+                    </div>
+                }
+            }
+            else if (Model.CurrentPage == "transactions")
+            {
+                <h3>Transactions</h3>
+                @if (Model.Transactions.Count() > 0)
+                {
+                    <table class="table table-striped table-hover table-light">
+                        <thead class="table-primary">
+                            <tr>
+                                <th scope="col">Reference</th>
+                                <th scope="col">Amount</th>
+                                <th scope="col">Date</th>
+                                <th scope="col">Email</th>
+                                <th scope="col">Receiver Acc. No.</th>
+                                <th scope="col">Sender Acc. No.</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            @foreach (var transaction in Model.Transactions)
+                            {
+                                <tr>
+                                    <th scope="row">@transaction.Reference</th>
+                                    <td>@(transaction.Amount)</td>
+                                    <td>@transaction.TransactionDate.ToShortDateString()</td>
+                                    <td>@transaction.UserEmail</td>
+                                    <td>@transaction.BankAccountIdReceiver</td>
+                                    <td>@transaction.BankAccountIdSender</td>
+                                </tr>
+                            }
+                        </tbody>
+                    </table>
+                }
+                else
+                {
+                    <div class="text-center m-3 p-3">
+                        <img class="img-fluid" style="height: 300px!important;width: 340px!important;" src="/images/Nothing.jpeg" />
+                        <h1 class="fw-bold">No Transactions found</h1>
+                    </div>
+                }
+            }
+        </div>
+    </div>
+</div>

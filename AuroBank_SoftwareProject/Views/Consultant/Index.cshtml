@@ -1,0 +1,236 @@
+﻿@model ConsultantViewModel
+
+<div class="container mt-4">
+    @if (TempData["Message"] != null)
+    {
+        <div class="alert alert-success alert-dismissible">
+            <button class="btn-close" aria-label="Close" data-bs-dismiss="alert"></button>
+            @TempData["Message"]
+        </div>
+    }
+    <h3 class="mb-2 mt-2 display-5">
+        Consultant
+        <a class="btn btn-primary m-2" asp-action="GenerateReport" asp-controller="Consultant">Generate Report</a>
+    </h3>
+
+    <div class="row">
+        <div class="col-md-3">
+            <!-- Side navigation bar -->
+            <div class="nav flex-column nav-pills bg-success p-3">
+                <a class="nav-link @(Model.CurrentPage == "index" ? "active" : "")" asp-action="Index" asp-route-currentPage="index" asp-controller="Consultant">
+                    View Clients
+                </a>
+                <a class="nav-link @(Model.CurrentPage == "reviews" ? "active" : "")" asp-action="Index" asp-route-currentPage="reviews" asp-controller="Consultant">
+                    View Reviews
+                </a>
+
+                <a asp-action="UpdateProfile" asp-controller="Account" class="nav-link text-dark" style="text-align: center;">
+                    Update Profile
+                </a>
+            </div>
+        </div>
+
+        <div class="col-md-9 mt-3">
+            @if (Model.CurrentPage == "index")
+            {
+                <h3>Clients</h3>
+                @if (Model.appUsers.Count() > 0)
+                {
+                    <table class="table table-striped-columns table-light">
+                        <thead class="table-primary">
+                            <tr>
+                                <th scope="col">Email</th>
+                                <th scope="col">Name</th>
+                                <th scope="col">Account No.</th>
+                                <th scope="col">Actions</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            @foreach (var user in Model.appUsers)
+                            {
+                                <tr>
+                                    <td>@user.Email</td>
+                                    <td>@(user.FirstName + " " + user.LastName)</td>
+                                    <th scope="row">@user.AccountNumber</th>
+                                    <td>
+                                        <a class="btn btn-outline-warning" asp-action="DepositWithdraw" asp-controller="Consultant" asp-route-email="@user.Email">
+                                            <i class="fa-solid fa-money-bill-transfer"></i> Manage cash
+                                        </a>
+                                        <a class="btn btn-outline-success" asp-action="ViewAllLogins" asp-controller="Consultant" asp-route-email="@user.Email">
+                                            <i class="fa fa-key"></i> Logins
+                                        </a>
+                                        <a class="btn btn-warning" asp-action="ManageUser" asp-controller="Consultant" asp-route-email="@user.Email">
+                                            <span class="fa fa-edit"></span> Edit
+                                        </a>
+                                        <a class="btn btn-danger" asp-action="DeleteUser" asp-controller="Consultant" asp-route-email="@user.Email" onclick="return confirm(`Are you sure you want to delete user: ${@user.Email} ?`);">
+                                            <span class="fa-solid fa-trash"></span> Delete
+                                        </a>
+                                    </td>
+                                </tr>
+                            }
+                        </tbody>
+                    </table>
+                }
+                else
+                {
+                    <div class="text-center m-3 p-3">
+                        <img class="img-fluid" style="height: 300px!important;width: 340px!important;" src="/Images/Nothing.jpeg" />
+                        <h1 class="fw-bold">No users found</h1>
+                    </div>
+                }
+            }
+            else
+            {
+                <h3>Reviews</h3>
+                @if (Model.Reviews.Count() > 0)
+                {
+                    <table class="table table-striped-columns table-light">
+                        <thead class="table-primary">
+                            <tr>
+                                <th scope="col">Email</th>
+                                <th scope="col">Rating Percentage</th>
+                                <th scope="col">Comment</th>
+                                <th scope="col">Date</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            @foreach (var review in Model.Reviews)
+                            {
+                                <tr>
+                                    <th scope="row">@review.UserEmail</th>
+                                    <td>@((double)review.Rate / 5.0 * 100.0)%</td>
+                                    <td>@review.Comment</td>
+                                    <td>@review.DateReviewed.ToShortDateString()</td>
+                                </tr>
+                            }
+                        </tbody>
+                    </table>
+                }
+                else
+                {
+                    <div class="text-center m-3 p-3">
+                        <img class="img-fluid" style="height: 300px!important;width: 340px!important;" src="/Images/nothing.png" />
+                        <h1 class="fw-bold">No Reviews found</h1>
+                    </div>
+                }
+            }
+        </div>
+    </div>
+</div>
+
+
+
+
+@* @model ConsultantViewModel
+
+<div class="container mt-4">
+    @if (TempData["Message"] != null)
+    {
+        <div class="alert alert-success alert-dismissible">
+            <button class="btn-close" aria-label="Close" data-bs-dismiss="alert"></button>
+            @TempData["Message"]
+        </div>
+    }
+    <h3 class="mb-2 mt-2 display-5">
+        Consultant
+        <a class="btn btn-primary m-2" asp-action="GenerateReport" asp-controller="Consultant">Generate Report</a>
+    </h3>
+
+    <ul class="nav nav-tabs text-dark">
+        <li class="nav-item">
+            <a class="nav-link @(Model.CurrentPage == "index" ? "active" : "")" asp-action="Index" asp-route-currentPage="index" asp-controller="Consultant">View Clients</a>
+        </li>
+        <li class="nav-item">
+            <a class="nav-link @(Model.CurrentPage == "reviews" ? "active" : "")" asp-action="Index" asp-route-currentPage="reviews" asp-controller="Consultant">View Reviews</a>
+        </li>
+    </ul>
+
+    <div class="row">
+        <div class="col-md-12 mt-3">
+            @if (Model.CurrentPage == "index")
+            {
+                <h3>Clients</h3>
+                @if (Model.appUsers.Count() > 0)
+                {
+                    <table class="table table-striped-columns table-light">
+                        <thead class="table-primary">
+                            <tr>
+                                <th scope="col">Email</th>
+                                <th scope="col">Name</th>
+                                <th scope="col">Account No.</th>
+                                <th scope="col">Actions</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            @foreach (var user in Model.appUsers)
+                            {
+                                <tr>
+                                    <td>@user.Email</td>
+                                    <td>@(user.FirstName + " " + user.LastName)</td>
+                                    <th scope="row">@user.AccountNumber</th>
+                                    <td>
+                                        <a class="btn btn-outline-warning" asp-action="DepositWithdraw" asp-controller="Consultant" asp-route-email="@user.Email">
+                                            <i class="fa-solid fa-money-bill-transfer"></i> Manage cash
+                                        </a>
+                                        <a class="btn btn-outline-success" asp-action="ViewAllLogins" asp-controller="Consultant" asp-route-email="@user.Email">
+                                            <i class="fa fa-key"></i> Logins
+                                        </a>
+                                        <a class="btn btn-warning" asp-action="ManageUser" asp-controller="Consultant" asp-route-email="@user.Email">
+                                            <span class="fa fa-edit"></span> Edit
+                                        </a>
+                                        <a class="btn btn-danger" asp-action="DeleteUser" asp-controller="Consultant" asp-route-email="@user.Email" onclick="return confirm(`Are you sure you want to delete user: ${@user.Email} ?`);">
+                                            <span class="fa-solid fa-trash"></span> Delete
+                                        </a>
+                                    </td>
+                                </tr>
+                            }
+                        </tbody>
+                    </table>
+                }
+                else
+                {
+                    <div class="text-center m-3 p-3">
+                        <img class="img-fluid" style="height: 300px!important;width: 340px!important;" src="/images/nothing.png" />
+                        <h1 class="fw-bold">No users found</h1>
+                    </div>
+                }
+            }
+            else
+            {
+                <h3>Reviews</h3>
+                @if (Model.Reviews.Count() > 0)
+                {
+                    <table class="table table-striped-columns table-light">
+                        <thead class="table-primary">
+                            <tr>
+                                <th scope="col">Email</th>
+                                <th scope="col">Rating Percentage</th>
+                                <th scope="col">Comment</th>
+                                <th scope="col">Date</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            @foreach (var review in Model.Reviews)
+                            {
+                                <tr>
+                                    <th scope="row">@review.UserEmail</th>
+                                    <td>@((double)review.Rate / 5.0 * 100.0)%</td>
+                                    <td>@review.Comment</td>
+                                    <td>@review.DateReviewed.ToShortDateString()</td>
+                                </tr>
+                            }
+                        </tbody>
+                    </table>
+                }
+                else
+                {
+                    <div class="text-center m-3 p-3">
+                        <img class="img-fluid" style="height: 300px!important;width: 340px!important;" src="/images/nothing.png" />
+                        <h1 class="fw-bold">No Reviews found</h1>
+                    </div>
+                }
+            }
+        </div>
+    </div>
+</div>
+ *@

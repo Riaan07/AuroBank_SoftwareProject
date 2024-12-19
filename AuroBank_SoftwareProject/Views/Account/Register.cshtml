@@ -1,0 +1,125 @@
+﻿@model RegisterViewModel
+@{
+    ViewBag.Title = "Register";
+}
+
+<div class="content">
+    <div class="d-flex justify-content-center align-items-center vh-100">
+        <div class="row w-100" style="max-width: 1100px;">
+            <!-- Left column for the image -->
+            <div class="col-md-5 d-none d-md-block">
+                <img src="~/Images/login.png" alt="UFS Bank Registration" class="img-fluid h-100 w-100 rounded-start" style="object-fit: contain;" />
+            </div>
+
+            <!-- Right column for the registration form -->
+            <div class="col-md-7">
+                <div class="card shadow-lg h-100">
+                    <div class="card-body p-5">
+                        <h3 class="card-title text-center mb-4">Register for UFS Bank</h3>
+
+                        @* <div class="text-danger" asp-validation-summary="All"></div> *@
+
+                        <form asp-action="Register" asp-controller="Account" method="post">
+                            <div class="row">
+                                <!-- Email Address -->
+                                <div class="col-md-6 mb-3">
+                                    <div class="form-outline" data-mdb-input-init>
+                                        <input asp-for="EmailAddress" type="email" id="email" class="form-control" placeholder=" " autocomplete="off" />
+                                        <label class="form-label" for="email">Email</label>
+                                    </div>
+                                    <span asp-validation-for="EmailAddress" class="text-danger"></span>
+                                    <small class="text-muted">Email address must be unique</small>
+                                </div>
+
+                                <!-- Student/Staff Number -->
+                                <div class="col-md-6 mb-3">
+                                    <div class="form-outline" data-mdb-input-init>
+                                        <input asp-for="StudentStaffNumber" type="text" id="studentStaffNumber" class="form-control" placeholder=" " autocomplete="off" />
+                                        <label class="form-label" for="studentStaffNumber">Student/Staff Number</label>
+                                    </div>
+                                    <span asp-validation-for="StudentStaffNumber" class="text-danger"></span>
+                                </div>
+
+                                <!-- First Name -->
+                                <div class="col-md-6 mb-3">
+                                    <div class="form-outline" data-mdb-input-init>
+                                        <input asp-for="FirstName" type="text" id="firstName" class="form-control" placeholder=" " autocomplete="off" />
+                                        <label class="form-label" for="firstName">First Name</label>
+                                    </div>
+                                    <span asp-validation-for="FirstName" class="text-danger"></span>
+                                </div>
+
+                                <!-- Last Name -->
+                                <div class="col-md-6 mb-3">
+                                    <div class="form-outline" data-mdb-input-init>
+                                        <input asp-for="LastName" type="text" id="lastName" class="form-control" placeholder=" " autocomplete="off" />
+                                        <label class="form-label" for="lastName">Last Name</label>
+                                    </div>
+                                    <span asp-validation-for="LastName" class="text-danger"></span>
+                                </div>
+
+                                <!-- ID Number -->
+                                <div class="col-md-6 mb-3">
+                                    <div class="form-outline" data-mdb-input-init>
+                                        <input asp-for="IDNumber" type="text" id="idNumber" class="form-control" placeholder=" " autocomplete="off" />
+                                        <label class="form-label" for="idNumber">ID Number</label>
+                                    </div>
+                                    <span asp-validation-for="IDNumber" class="text-danger"></span>
+                                </div>
+
+                                <!-- Mobile Number -->
+                                <div class="col-md-6 mb-3">
+                                    <div class="form-outline" data-mdb-input-init>
+                                        <input asp-for="MobileNumber" type="text" id="mobileNumber" class="form-control" placeholder=" " autocomplete="off" />
+                                        <label class="form-label" for="mobileNumber">Mobile Number</label>
+                                    </div>
+                                    <span asp-validation-for="MobileNumber" class="text-danger"></span>
+                                </div>
+
+                                <!-- Residential Address -->
+                                <div class="col-md-12 mb-3">
+                                    <div class="form-outline" data-mdb-input-init>
+                                        <input asp-for="ResidentialAddress" type="text" id="residentialAddress" class="form-control" placeholder=" " autocomplete="off" />
+                                        <label class="form-label" for="residentialAddress">Residential Address</label>
+                                    </div>
+                                    <span asp-validation-for="ResidentialAddress" class="text-danger"></span>
+                                </div>
+
+                                <!-- Password -->
+                                <div class="col-md-6 mb-3">
+                                    <div class="form-outline" data-mdb-input-init>
+                                        <input asp-for="Password" type="password" id="password" class="form-control" placeholder=" " autocomplete="off" />
+                                        <label class="form-label" for="password">Password</label>
+                                    </div>
+                                    <span asp-validation-for="Password" class="text-danger"></span>
+                                </div>
+
+                                <!-- Confirm Password -->
+                                <div class="col-md-6 mb-3">
+                                    <div class="form-outline" data-mdb-input-init>
+                                        <input asp-for="ConfirmPassword" type="password" id="confirmPassword" class="form-control" placeholder=" " autocomplete="off" />
+                                        <label class="form-label" for="confirmPassword">Confirm Password</label>
+                                    </div>
+                                    <span asp-validation-for="ConfirmPassword" class="text-danger"></span>
+                                </div>
+                            </div>
+
+                            <!-- Register Button -->
+                            <div class="d-grid gap-2 mt-4">
+                                <input type="submit" value="Register" class="btn btn-primary btn-lg shadow-sm" />
+                            </div>
+
+                            <div class="text-center mt-4">
+                                <a asp-action="Login" asp-controller="Account" class="text-decoration-none fw-bolder">Go to login page</a>
+                            </div>
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+

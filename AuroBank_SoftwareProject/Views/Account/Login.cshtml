@@ -1,0 +1,61 @@
+﻿@model LoginViewModel
+@{
+    ViewBag.Title = "Login";
+}
+
+<div class="content">
+    <div class="d-flex justify-content-center align-items-center vh-100">
+        <div class="row w-100" style="max-width: 900px;">
+            <!-- Left column for the image -->
+            <div class="col-md-6 d-none d-md-block">
+                <img src="~/Images/login.png" alt="UFS Bank" class="img-fluid h-100 w-100 rounded-start" style="object-fit: cover;" />
+            </div>
+
+            <!-- Right column for the login form -->
+            <div class="col-md-6">
+                <div class="card shadow-lg h-100">
+                    <div class="card-body p-5">
+                        <h3 class="card-title text-center mb-4">Login to UFS Bank</h3>
+
+                        <form asp-action="Login" asp-controller="Account" method="post">
+                            <!-- Email -->
+                            <div class="mb-3">
+                                <div class="form-outline" data-mdb-input-init>
+                                    <input asp-for="Email" type="text" id="email" class="form-control" placeholder=" " autocomplete="off" />
+                                    <label class="form-label" for="email">Email</label>
+                                </div>
+                                <span asp-validation-for="Email" class="text-danger"></span>
+                            </div>
+
+                            <!-- Password -->
+                            <div class="mb-3">
+                                <div class="form-outline" data-mdb-input-init>
+                                    <input asp-for="Password" type="password" id="password" class="form-control" placeholder=" " autocomplete="off" />
+                                    <label class="form-label" for="password">Password</label>
+                                </div>
+                                <span asp-validation-for="Password" class="text-danger"></span>
+                            </div>
+
+                            <!-- Remember Me Checkbox -->
+                            <div class="form-check d-flex align-items-center mb-4">
+                                <input asp-for="RememberMe" type="checkbox" class="form-check-input" id="rememberMe" />
+                                <label class="form-check-label ms-2" for="rememberMe">Remember me</label>
+                            </div>
+
+                            <!-- Submit Button -->
+                            <div class="d-grid gap-2">
+                                <input type="submit" value="Log In" class="btn btn-primary btn-lg shadow-sm" />
+                            </div>
+
+                            <!-- Register Link -->
+                            <div class="text-center mt-4">
+                                <a asp-action="Register" asp-controller="Account" class="text-decoration-none fw-bolder">Create Your New Account</a>
+                            </div>
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+

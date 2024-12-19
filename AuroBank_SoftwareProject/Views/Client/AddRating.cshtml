@@ -1,0 +1,57 @@
+﻿@model Reviews
+
+@{
+    ViewBag.Title = "Add Rating";
+}
+
+<div class="container" style="max-width: 600px; margin: auto; background-color: #f9f9f9; padding: 30px; border-radius: 15px; box-shadow: 0 5px 15px rgba(0,0,0,0.1);">
+    <h2 class="display-5 mt-3 text-center">Rate Our Services</h2>
+
+    <form asp-action="AddRating" asp-controller="Client" method="post">
+        <table class="table table-borderless mt-4">
+            <tbody>
+                <!-- Comment Row -->
+                <tr>
+                    <td style="width: 50px;">
+                        <i class="fas fa-comments fa-2x" style="color: #3498db;"></i>
+                    </td>
+                    <td>
+                        <div class="form-group">
+                            <label asp-for="Comment" style="font-weight: 600;">Leave a Comment</label>
+                            <textarea asp-for="Comment" class="form-control" placeholder="Your feedback..." rows="4"></textarea>
+                            <span asp-validation-for="Comment" class="text-danger"></span>
+                        </div>
+                    </td>
+                </tr>
+
+                <!-- Rating Row -->
+                <tr>
+                    <td style="width: 50px;">
+                        <i class="fas fa-star-half-alt fa-2x" style="color: #f1c40f;"></i>
+                    </td>
+                    <td>
+                        <div class="form-group">
+                            <label asp-for="Rate" style="font-weight: 600;">Rate Us (1 to 5)</label>
+                            <input asp-for="Rate" type="number" class="form-control" min="1" max="5" placeholder="Rate our service" />
+                            <span asp-validation-for="Rate" class="text-danger"></span>
+                        </div>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+
+        <!-- Hidden Field for User Email -->
+        <input type="hidden" asp-for="UserEmail" />
+
+        <!-- Buttons -->
+        <div class="text-center mt-4">
+            <button type="submit" class="btn btn-primary btn-lg" style="width: 150px;">
+                <i class="fas fa-paper-plane"></i> Submit
+            </button>
+            <a asp-action="index" asp-controller="Client" class="btn btn-outline-secondary btn-lg" style="width: 150px;">
+                <i class="fas fa-arrow-left"></i> Go Back
+            </a>
+        </div>
+    </form>
+</div>
+

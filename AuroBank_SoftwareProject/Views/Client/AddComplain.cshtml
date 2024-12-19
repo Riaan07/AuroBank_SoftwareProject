@@ -1,0 +1,17 @@
+﻿@model ClientViewModel.ComplainViewModel
+
+<div class="container mt-5">
+    <h2>Submit a Complaint</h2>
+
+    <form asp-action="AddComplain" method="post">
+        <div class="form-group">
+            <label for="ComplaintText">Complaint</label>
+            <textarea asp-for="ComplaintText" class="form-control" rows="5"></textarea>
+            <span asp-validation-for="ComplaintText" class="text-danger"></span>
+        </div>
+        <button type="submit" class="btn btn-primary">Submit</button>
+    </form>
+</div>
+
+
+

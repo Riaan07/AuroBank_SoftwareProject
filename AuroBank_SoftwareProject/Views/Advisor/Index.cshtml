@@ -1,0 +1,46 @@
+﻿@model IEnumerable<BankAccount>
+
+<div class="container mt-4">
+    @if (TempData["Message"] != null)
+    {
+        <div class="alert alert-success alert-dismissible fade show" role="alert">
+            <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
+            @TempData["Message"]
+        </div>
+    }
+
+    <h3 class="mb-5 display-5">Financial Advisor</h3>
+    <div>
+        <h3>Clients</h3>
+        @if (Model.Count() > 0)
+        {
+            <div class="row">
+                @foreach (var ba in Model)
+                {
+                    <div class="col-md-4 mb-4">
+                        <div class="card">
+                            <div class="card-header bg-primary text-white">
+                                <h5 class="card-title">Account No: @ba.AccountNumber</h5>
+                            </div>
+                            <div class="card-body">
+                                <p class="card-text"><strong>Email:</strong> @ba.UserEmail</p>
+                                <p class="card-text"><strong>Current Balance:</strong> @ba.Balance.ToString("C")</p>
+                                <a class="btn btn-warning" asp-action="Advice" asp-controller="Advisor" asp-route-email="@ba.UserEmail">
+                                    <i class="fa-solid fa-comments"></i> Give Advice
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                }
+            </div>
+        }
+        else
+        {
+            <div class="text-center m-3 p-3">
+                <img class="img-fluid" style="height: 300px; width: 340px;" src="/Images/Nothing.jpeg" />
+                <h1 class="fw-bold">No Bank Accounts found</h1>
+            </div>
+        }
+    </div>
+</div>
+

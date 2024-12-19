@@ -1,0 +1,1022 @@
+T:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\obj\Debug\net8.0\AuroBank_SoftwareProject.csproj.AssemblyReference.cache
+T:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\obj\Debug\net8.0\AuroBank_SoftwareProject.GeneratedMSBuildEditorConfig.editorconfig
+T:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\obj\Debug\net8.0\AuroBank_SoftwareProject.AssemblyInfoInputs.cache
+T:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\obj\Debug\net8.0\AuroBank_SoftwareProject.AssemblyInfo.cs
+T:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\obj\Debug\net8.0\AuroBank_SoftwareProject.csproj.CoreCompileInputs.cache
+T:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\obj\Debug\net8.0\AuroBank_SoftwareProject.MvcApplicationPartsAssemblyInfo.cache
+T:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\obj\Debug\net8.0\AuroBank_SoftwareProject.RazorAssemblyInfo.cache
+T:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\obj\Debug\net8.0\AuroBank_SoftwareProject.RazorAssemblyInfo.cs
+F:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\appsettings.Development.json
+F:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\appsettings.json
+F:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\libman.json
+F:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\AuroBank_SoftwareProject.staticwebassets.runtime.json
+F:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\AuroBank_SoftwareProject.exe
+F:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\AuroBank_SoftwareProject.deps.json
+F:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\AuroBank_SoftwareProject.runtimeconfig.json
+F:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\AuroBank_SoftwareProject.dll
+F:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\AuroBank_SoftwareProject.pdb
+F:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\Azure.Core.dll
+F:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\Azure.Identity.dll
+F:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\Humanizer.dll
+F:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+F:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+F:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+F:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+F:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+F:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+F:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+F:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+F:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+F:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\Microsoft.Data.Sqlite.dll
+F:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+F:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+F:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+F:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+F:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+F:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
+F:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+F:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+F:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+F:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+F:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+F:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+F:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+F:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+F:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+F:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\Mono.TextTemplating.dll
+F:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\SQLitePCLRaw.core.dll
+F:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\System.CodeDom.dll
+F:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+F:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\System.Composition.Convention.dll
+F:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\System.Composition.Hosting.dll
+F:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\System.Composition.Runtime.dll
+F:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\System.Composition.TypedParts.dll
+F:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+F:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\System.Drawing.Common.dll
+F:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+F:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\System.Memory.Data.dll
+F:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\System.Runtime.Caching.dll
+F:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+F:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\System.Security.Permissions.dll
+F:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\System.Text.Json.dll
+F:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\System.Windows.Extensions.dll
+F:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+F:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+F:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+F:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+F:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+F:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+F:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+F:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+F:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+F:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+F:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+F:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+F:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+F:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+F:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+F:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+F:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+F:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+F:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+F:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+F:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+F:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\obj\Debug\net8.0\AuroBank_SoftwareProject.csproj.AssemblyReference.cache
+F:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\obj\Debug\net8.0\AuroBank_SoftwareProject.GeneratedMSBuildEditorConfig.editorconfig
+F:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\obj\Debug\net8.0\AuroBank_SoftwareProject.AssemblyInfoInputs.cache
+F:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\obj\Debug\net8.0\AuroBank_SoftwareProject.AssemblyInfo.cs
+F:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\obj\Debug\net8.0\AuroBank_SoftwareProject.csproj.CoreCompileInputs.cache
+F:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\obj\Debug\net8.0\AuroBank_SoftwareProject.MvcApplicationPartsAssemblyInfo.cache
+F:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\obj\Debug\net8.0\AuroBank_SoftwareProject.RazorAssemblyInfo.cache
+F:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\obj\Debug\net8.0\AuroBank_SoftwareProject.RazorAssemblyInfo.cs
+F:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\obj\Debug\net8.0\staticwebassets.build.json
+F:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\obj\Debug\net8.0\staticwebassets.development.json
+F:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\obj\Debug\net8.0\staticwebassets\msbuild.AuroBank_SoftwareProject.Microsoft.AspNetCore.StaticWebAssets.props
+F:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\obj\Debug\net8.0\staticwebassets\msbuild.build.AuroBank_SoftwareProject.props
+F:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.AuroBank_SoftwareProject.props
+F:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.AuroBank_SoftwareProject.props
+F:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\obj\Debug\net8.0\staticwebassets.pack.json
+F:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\obj\Debug\net8.0\scopedcss\bundle\AuroBank_SoftwareProject.styles.css
+F:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\obj\Debug\net8.0\AuroBank_SoftwareProject.csproj.CopyComplete
+F:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\obj\Debug\net8.0\AuroBank_SoftwareProject.dll
+F:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\obj\Debug\net8.0\refint\AuroBank_SoftwareProject.dll
+F:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\obj\Debug\net8.0\AuroBank_SoftwareProject.pdb
+F:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\obj\Debug\net8.0\AuroBank_SoftwareProject.genruntimeconfig.cache
+F:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\obj\Debug\net8.0\ref\AuroBank_SoftwareProject.dll
+E:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\appsettings.Development.json
+E:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\appsettings.json
+E:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\libman.json
+E:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\AuroBank_SoftwareProject.staticwebassets.runtime.json
+E:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\AuroBank_SoftwareProject.exe
+E:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\AuroBank_SoftwareProject.deps.json
+E:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\AuroBank_SoftwareProject.runtimeconfig.json
+E:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\AuroBank_SoftwareProject.dll
+E:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\AuroBank_SoftwareProject.pdb
+E:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\Azure.Core.dll
+E:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\Azure.Identity.dll
+E:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\Humanizer.dll
+E:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+E:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+E:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\Microsoft.Data.Sqlite.dll
+E:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+E:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+E:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+E:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+E:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
+E:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+E:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+E:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+E:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+E:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+E:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+E:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+E:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+E:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\Mono.TextTemplating.dll
+E:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\SQLitePCLRaw.core.dll
+E:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\System.CodeDom.dll
+E:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+E:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\System.Composition.Convention.dll
+E:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\System.Composition.Hosting.dll
+E:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\System.Composition.Runtime.dll
+E:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\System.Composition.TypedParts.dll
+E:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+E:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\System.Drawing.Common.dll
+E:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+E:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\System.Memory.Data.dll
+E:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\System.Runtime.Caching.dll
+E:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+E:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\System.Security.Permissions.dll
+E:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\System.Text.Json.dll
+E:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\System.Windows.Extensions.dll
+E:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+E:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+E:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+E:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+E:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\obj\Debug\net8.0\AuroBank_SoftwareProject.csproj.AssemblyReference.cache
+E:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\obj\Debug\net8.0\AuroBank_SoftwareProject.GeneratedMSBuildEditorConfig.editorconfig
+E:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\obj\Debug\net8.0\AuroBank_SoftwareProject.AssemblyInfoInputs.cache
+E:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\obj\Debug\net8.0\AuroBank_SoftwareProject.AssemblyInfo.cs
+E:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\obj\Debug\net8.0\AuroBank_SoftwareProject.csproj.CoreCompileInputs.cache
+E:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\obj\Debug\net8.0\AuroBank_SoftwareProject.MvcApplicationPartsAssemblyInfo.cache
+E:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\obj\Debug\net8.0\AuroBank_SoftwareProject.RazorAssemblyInfo.cache
+E:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\obj\Debug\net8.0\AuroBank_SoftwareProject.RazorAssemblyInfo.cs
+E:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\obj\Debug\net8.0\staticwebassets.build.json
+E:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\obj\Debug\net8.0\staticwebassets.development.json
+E:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\obj\Debug\net8.0\staticwebassets\msbuild.AuroBank_SoftwareProject.Microsoft.AspNetCore.StaticWebAssets.props
+E:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\obj\Debug\net8.0\staticwebassets\msbuild.build.AuroBank_SoftwareProject.props
+E:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.AuroBank_SoftwareProject.props
+E:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.AuroBank_SoftwareProject.props
+E:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\obj\Debug\net8.0\staticwebassets.pack.json
+E:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\obj\Debug\net8.0\scopedcss\bundle\AuroBank_SoftwareProject.styles.css
+E:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\obj\Debug\net8.0\AuroBank_SoftwareProject.csproj.CopyComplete
+E:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\obj\Debug\net8.0\AuroBank_SoftwareProject.dll
+E:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\obj\Debug\net8.0\refint\AuroBank_SoftwareProject.dll
+E:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\obj\Debug\net8.0\AuroBank_SoftwareProject.pdb
+E:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\obj\Debug\net8.0\AuroBank_SoftwareProject.genruntimeconfig.cache
+E:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\obj\Debug\net8.0\ref\AuroBank_SoftwareProject.dll
+D:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\appsettings.Development.json
+D:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\appsettings.json
+D:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\libman.json
+D:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\AuroBank_SoftwareProject.staticwebassets.runtime.json
+D:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\AuroBank_SoftwareProject.exe
+D:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\AuroBank_SoftwareProject.deps.json
+D:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\AuroBank_SoftwareProject.runtimeconfig.json
+D:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\AuroBank_SoftwareProject.dll
+D:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\AuroBank_SoftwareProject.pdb
+D:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\Azure.Core.dll
+D:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\Azure.Identity.dll
+D:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\Humanizer.dll
+D:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\Microsoft.Data.Sqlite.dll
+D:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+D:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+D:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
+D:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\SQLitePCLRaw.core.dll
+D:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\System.CodeDom.dll
+D:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\System.Memory.Data.dll
+D:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\System.Text.Json.dll
+D:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\obj\Debug\net8.0\AuroBank_SoftwareProject.csproj.AssemblyReference.cache
+D:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\obj\Debug\net8.0\AuroBank_SoftwareProject.GeneratedMSBuildEditorConfig.editorconfig
+D:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\obj\Debug\net8.0\AuroBank_SoftwareProject.AssemblyInfoInputs.cache
+D:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\obj\Debug\net8.0\AuroBank_SoftwareProject.AssemblyInfo.cs
+D:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\obj\Debug\net8.0\AuroBank_SoftwareProject.csproj.CoreCompileInputs.cache
+D:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\obj\Debug\net8.0\AuroBank_SoftwareProject.MvcApplicationPartsAssemblyInfo.cache
+D:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\obj\Debug\net8.0\AuroBank_SoftwareProject.RazorAssemblyInfo.cache
+D:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\obj\Debug\net8.0\AuroBank_SoftwareProject.RazorAssemblyInfo.cs
+D:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\obj\Debug\net8.0\staticwebassets.build.json
+D:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\obj\Debug\net8.0\staticwebassets.development.json
+D:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\obj\Debug\net8.0\staticwebassets\msbuild.AuroBank_SoftwareProject.Microsoft.AspNetCore.StaticWebAssets.props
+D:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\obj\Debug\net8.0\staticwebassets\msbuild.build.AuroBank_SoftwareProject.props
+D:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.AuroBank_SoftwareProject.props
+D:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.AuroBank_SoftwareProject.props
+D:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\obj\Debug\net8.0\staticwebassets.pack.json
+D:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\obj\Debug\net8.0\scopedcss\bundle\AuroBank_SoftwareProject.styles.css
+D:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\obj\Debug\net8.0\AuroBank_SoftwareProject.csproj.CopyComplete
+D:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\obj\Debug\net8.0\AuroBank_SoftwareProject.dll
+D:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\obj\Debug\net8.0\refint\AuroBank_SoftwareProject.dll
+D:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\obj\Debug\net8.0\AuroBank_SoftwareProject.pdb
+D:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\obj\Debug\net8.0\AuroBank_SoftwareProject.genruntimeconfig.cache
+D:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\obj\Debug\net8.0\ref\AuroBank_SoftwareProject.dll
+G:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\obj\Debug\net8.0\AuroBank_SoftwareProject.csproj.AssemblyReference.cache
+G:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\obj\Debug\net8.0\AuroBank_SoftwareProject.GeneratedMSBuildEditorConfig.editorconfig
+G:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\obj\Debug\net8.0\AuroBank_SoftwareProject.AssemblyInfoInputs.cache
+G:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\obj\Debug\net8.0\AuroBank_SoftwareProject.AssemblyInfo.cs
+G:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\obj\Debug\net8.0\AuroBank_SoftwareProject.csproj.CoreCompileInputs.cache
+G:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\obj\Debug\net8.0\AuroBank_SoftwareProject.MvcApplicationPartsAssemblyInfo.cache
+G:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\obj\Debug\net8.0\AuroBank_SoftwareProject.RazorAssemblyInfo.cache
+G:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\obj\Debug\net8.0\AuroBank_SoftwareProject.RazorAssemblyInfo.cs
+G:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\obj\Debug\net8.0\AuroBank_SoftwareProject.dll
+G:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\obj\Debug\net8.0\refint\AuroBank_SoftwareProject.dll
+G:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\obj\Debug\net8.0\AuroBank_SoftwareProject.pdb
+G:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\appsettings.Development.json
+G:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\appsettings.json
+G:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\libman.json
+G:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\AuroBank_SoftwareProject.staticwebassets.runtime.json
+G:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\AuroBank_SoftwareProject.exe
+G:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\AuroBank_SoftwareProject.deps.json
+G:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\AuroBank_SoftwareProject.runtimeconfig.json
+G:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\AuroBank_SoftwareProject.dll
+G:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\AuroBank_SoftwareProject.pdb
+G:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\Azure.Core.dll
+G:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\Azure.Identity.dll
+G:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\Humanizer.dll
+G:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+G:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+G:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+G:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+G:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+G:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+G:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+G:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+G:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+G:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\Microsoft.Data.Sqlite.dll
+G:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+G:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+G:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+G:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+G:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+G:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+G:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+G:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+G:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
+G:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+G:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+G:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+G:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+G:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+G:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+G:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+G:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+G:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+G:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+G:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+G:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\Mono.TextTemplating.dll
+G:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\SQLitePCLRaw.core.dll
+G:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\System.CodeDom.dll
+G:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+G:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\System.Composition.Convention.dll
+G:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\System.Composition.Hosting.dll
+G:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\System.Composition.Runtime.dll
+G:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\System.Composition.TypedParts.dll
+G:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+G:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\System.Drawing.Common.dll
+G:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+G:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\System.Memory.Data.dll
+G:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\System.Runtime.Caching.dll
+G:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+G:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\System.Security.Permissions.dll
+G:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\System.Text.Json.dll
+G:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\System.Windows.Extensions.dll
+G:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+G:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+G:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+G:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+G:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+G:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+G:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+G:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+G:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+G:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+G:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+G:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+G:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+G:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+G:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+G:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+G:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+G:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+G:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+G:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+G:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+G:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+G:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+G:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+G:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+G:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\obj\Debug\net8.0\staticwebassets.build.json
+G:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\obj\Debug\net8.0\staticwebassets.development.json
+G:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\obj\Debug\net8.0\staticwebassets\msbuild.AuroBank_SoftwareProject.Microsoft.AspNetCore.StaticWebAssets.props
+G:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\obj\Debug\net8.0\staticwebassets\msbuild.build.AuroBank_SoftwareProject.props
+G:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.AuroBank_SoftwareProject.props
+G:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.AuroBank_SoftwareProject.props
+G:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\obj\Debug\net8.0\staticwebassets.pack.json
+G:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\obj\Debug\net8.0\scopedcss\bundle\AuroBank_SoftwareProject.styles.css
+G:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\obj\Debug\net8.0\AuroBank.3E494776.Up2Date
+G:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\obj\Debug\net8.0\AuroBank_SoftwareProject.genruntimeconfig.cache
+G:\AuroBank_SoftwareProject\AuroBank_SoftwareProject\obj\Debug\net8.0\ref\AuroBank_SoftwareProject.dll
+C:\Seed\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\appsettings.Development.json
+C:\Seed\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\appsettings.json
+C:\Seed\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\libman.json
+C:\Seed\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\AuroBank_SoftwareProject.staticwebassets.runtime.json
+C:\Seed\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\AuroBank_SoftwareProject.exe
+C:\Seed\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\AuroBank_SoftwareProject.deps.json
+C:\Seed\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\AuroBank_SoftwareProject.runtimeconfig.json
+C:\Seed\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\AuroBank_SoftwareProject.dll
+C:\Seed\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\AuroBank_SoftwareProject.pdb
+C:\Seed\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\Azure.Core.dll
+C:\Seed\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\Azure.Identity.dll
+C:\Seed\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\Humanizer.dll
+C:\Seed\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Seed\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Seed\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Seed\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Seed\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Seed\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Seed\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Seed\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Seed\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Seed\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\Microsoft.Data.Sqlite.dll
+C:\Seed\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Seed\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Seed\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Seed\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Seed\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Seed\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Seed\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Seed\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+C:\Seed\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Seed\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Seed\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Seed\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Seed\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Seed\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Seed\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Seed\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Seed\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Seed\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Seed\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Seed\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Seed\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Seed\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\SQLitePCLRaw.core.dll
+C:\Seed\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\System.CodeDom.dll
+C:\Seed\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Seed\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Seed\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Seed\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Seed\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Seed\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Seed\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Seed\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Seed\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Seed\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Seed\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Seed\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Seed\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Seed\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Seed\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Seed\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Seed\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Seed\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Seed\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Seed\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Seed\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Seed\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Seed\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Seed\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Seed\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Seed\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Seed\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Seed\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Seed\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Seed\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Seed\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Seed\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Seed\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Seed\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Seed\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Seed\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Seed\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Seed\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Seed\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Seed\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Seed\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Seed\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Seed\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Seed\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Seed\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Seed\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Seed\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Seed\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Seed\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Seed\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Seed\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Seed\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Seed\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Seed\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Seed\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Seed\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Seed\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Seed\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Seed\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Seed\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Seed\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Seed\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Seed\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Seed\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Seed\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Seed\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Seed\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Seed\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Seed\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Seed\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Seed\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Seed\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Seed\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Seed\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Seed\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Seed\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Seed\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Seed\AuroBank_SoftwareProject\AuroBank_SoftwareProject\obj\Debug\net8.0\AuroBank_SoftwareProject.csproj.AssemblyReference.cache
+C:\Seed\AuroBank_SoftwareProject\AuroBank_SoftwareProject\obj\Debug\net8.0\AuroBank_SoftwareProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Seed\AuroBank_SoftwareProject\AuroBank_SoftwareProject\obj\Debug\net8.0\AuroBank_SoftwareProject.AssemblyInfoInputs.cache
+C:\Seed\AuroBank_SoftwareProject\AuroBank_SoftwareProject\obj\Debug\net8.0\AuroBank_SoftwareProject.AssemblyInfo.cs
+C:\Seed\AuroBank_SoftwareProject\AuroBank_SoftwareProject\obj\Debug\net8.0\AuroBank_SoftwareProject.csproj.CoreCompileInputs.cache
+C:\Seed\AuroBank_SoftwareProject\AuroBank_SoftwareProject\obj\Debug\net8.0\AuroBank_SoftwareProject.MvcApplicationPartsAssemblyInfo.cache
+C:\Seed\AuroBank_SoftwareProject\AuroBank_SoftwareProject\obj\Debug\net8.0\AuroBank_SoftwareProject.RazorAssemblyInfo.cache
+C:\Seed\AuroBank_SoftwareProject\AuroBank_SoftwareProject\obj\Debug\net8.0\AuroBank_SoftwareProject.RazorAssemblyInfo.cs
+C:\Seed\AuroBank_SoftwareProject\AuroBank_SoftwareProject\obj\Debug\net8.0\staticwebassets.build.json
+C:\Seed\AuroBank_SoftwareProject\AuroBank_SoftwareProject\obj\Debug\net8.0\staticwebassets.development.json
+C:\Seed\AuroBank_SoftwareProject\AuroBank_SoftwareProject\obj\Debug\net8.0\staticwebassets\msbuild.AuroBank_SoftwareProject.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Seed\AuroBank_SoftwareProject\AuroBank_SoftwareProject\obj\Debug\net8.0\staticwebassets\msbuild.build.AuroBank_SoftwareProject.props
+C:\Seed\AuroBank_SoftwareProject\AuroBank_SoftwareProject\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.AuroBank_SoftwareProject.props
+C:\Seed\AuroBank_SoftwareProject\AuroBank_SoftwareProject\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.AuroBank_SoftwareProject.props
+C:\Seed\AuroBank_SoftwareProject\AuroBank_SoftwareProject\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Seed\AuroBank_SoftwareProject\AuroBank_SoftwareProject\obj\Debug\net8.0\scopedcss\bundle\AuroBank_SoftwareProject.styles.css
+C:\Seed\AuroBank_SoftwareProject\AuroBank_SoftwareProject\obj\Debug\net8.0\AuroBank.3E494776.Up2Date
+C:\Seed\AuroBank_SoftwareProject\AuroBank_SoftwareProject\obj\Debug\net8.0\AuroBank_SoftwareProject.dll
+C:\Seed\AuroBank_SoftwareProject\AuroBank_SoftwareProject\obj\Debug\net8.0\refint\AuroBank_SoftwareProject.dll
+C:\Seed\AuroBank_SoftwareProject\AuroBank_SoftwareProject\obj\Debug\net8.0\AuroBank_SoftwareProject.pdb
+C:\Seed\AuroBank_SoftwareProject\AuroBank_SoftwareProject\obj\Debug\net8.0\AuroBank_SoftwareProject.genruntimeconfig.cache
+C:\Seed\AuroBank_SoftwareProject\AuroBank_SoftwareProject\obj\Debug\net8.0\ref\AuroBank_SoftwareProject.dll
+C:\Users\Riaan\Downloads\AuroBank_SoftwareProject\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Riaan\Downloads\AuroBank_SoftwareProject\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\appsettings.json
+C:\Users\Riaan\Downloads\AuroBank_SoftwareProject\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\libman.json
+C:\Users\Riaan\Downloads\AuroBank_SoftwareProject\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\AuroBank_SoftwareProject.staticwebassets.runtime.json
+C:\Users\Riaan\Downloads\AuroBank_SoftwareProject\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\AuroBank_SoftwareProject.exe
+C:\Users\Riaan\Downloads\AuroBank_SoftwareProject\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\AuroBank_SoftwareProject.deps.json
+C:\Users\Riaan\Downloads\AuroBank_SoftwareProject\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\AuroBank_SoftwareProject.runtimeconfig.json
+C:\Users\Riaan\Downloads\AuroBank_SoftwareProject\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\AuroBank_SoftwareProject.dll
+C:\Users\Riaan\Downloads\AuroBank_SoftwareProject\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\AuroBank_SoftwareProject.pdb
+C:\Users\Riaan\Downloads\AuroBank_SoftwareProject\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\Riaan\Downloads\AuroBank_SoftwareProject\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\Riaan\Downloads\AuroBank_SoftwareProject\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\Humanizer.dll
+C:\Users\Riaan\Downloads\AuroBank_SoftwareProject\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Riaan\Downloads\AuroBank_SoftwareProject\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Riaan\Downloads\AuroBank_SoftwareProject\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Riaan\Downloads\AuroBank_SoftwareProject\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Riaan\Downloads\AuroBank_SoftwareProject\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\Riaan\Downloads\AuroBank_SoftwareProject\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Riaan\Downloads\AuroBank_SoftwareProject\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Riaan\Downloads\AuroBank_SoftwareProject\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Riaan\Downloads\AuroBank_SoftwareProject\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\Riaan\Downloads\AuroBank_SoftwareProject\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\Microsoft.Data.Sqlite.dll
+C:\Users\Riaan\Downloads\AuroBank_SoftwareProject\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Riaan\Downloads\AuroBank_SoftwareProject\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Riaan\Downloads\AuroBank_SoftwareProject\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Riaan\Downloads\AuroBank_SoftwareProject\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Riaan\Downloads\AuroBank_SoftwareProject\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\Riaan\Downloads\AuroBank_SoftwareProject\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Riaan\Downloads\AuroBank_SoftwareProject\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Riaan\Downloads\AuroBank_SoftwareProject\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Riaan\Downloads\AuroBank_SoftwareProject\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Riaan\Downloads\AuroBank_SoftwareProject\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\Riaan\Downloads\AuroBank_SoftwareProject\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\Riaan\Downloads\AuroBank_SoftwareProject\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Riaan\Downloads\AuroBank_SoftwareProject\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Riaan\Downloads\AuroBank_SoftwareProject\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Riaan\Downloads\AuroBank_SoftwareProject\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Riaan\Downloads\AuroBank_SoftwareProject\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Riaan\Downloads\AuroBank_SoftwareProject\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Riaan\Downloads\AuroBank_SoftwareProject\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Riaan\Downloads\AuroBank_SoftwareProject\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\Riaan\Downloads\AuroBank_SoftwareProject\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Riaan\Downloads\AuroBank_SoftwareProject\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\Riaan\Downloads\AuroBank_SoftwareProject\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\SQLitePCLRaw.core.dll
+C:\Users\Riaan\Downloads\AuroBank_SoftwareProject\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\Riaan\Downloads\AuroBank_SoftwareProject\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\Riaan\Downloads\AuroBank_SoftwareProject\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\Riaan\Downloads\AuroBank_SoftwareProject\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\Riaan\Downloads\AuroBank_SoftwareProject\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\Riaan\Downloads\AuroBank_SoftwareProject\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\Riaan\Downloads\AuroBank_SoftwareProject\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Riaan\Downloads\AuroBank_SoftwareProject\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\Riaan\Downloads\AuroBank_SoftwareProject\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Riaan\Downloads\AuroBank_SoftwareProject\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\Riaan\Downloads\AuroBank_SoftwareProject\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\Riaan\Downloads\AuroBank_SoftwareProject\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Riaan\Downloads\AuroBank_SoftwareProject\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\Riaan\Downloads\AuroBank_SoftwareProject\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\System.Text.Json.dll
+C:\Users\Riaan\Downloads\AuroBank_SoftwareProject\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\Riaan\Downloads\AuroBank_SoftwareProject\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Riaan\Downloads\AuroBank_SoftwareProject\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Riaan\Downloads\AuroBank_SoftwareProject\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Riaan\Downloads\AuroBank_SoftwareProject\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Riaan\Downloads\AuroBank_SoftwareProject\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Riaan\Downloads\AuroBank_SoftwareProject\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Riaan\Downloads\AuroBank_SoftwareProject\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Riaan\Downloads\AuroBank_SoftwareProject\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Riaan\Downloads\AuroBank_SoftwareProject\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Riaan\Downloads\AuroBank_SoftwareProject\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Riaan\Downloads\AuroBank_SoftwareProject\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Riaan\Downloads\AuroBank_SoftwareProject\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Riaan\Downloads\AuroBank_SoftwareProject\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Riaan\Downloads\AuroBank_SoftwareProject\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Riaan\Downloads\AuroBank_SoftwareProject\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Riaan\Downloads\AuroBank_SoftwareProject\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Riaan\Downloads\AuroBank_SoftwareProject\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Riaan\Downloads\AuroBank_SoftwareProject\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Riaan\Downloads\AuroBank_SoftwareProject\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Riaan\Downloads\AuroBank_SoftwareProject\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Riaan\Downloads\AuroBank_SoftwareProject\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Riaan\Downloads\AuroBank_SoftwareProject\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Riaan\Downloads\AuroBank_SoftwareProject\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Riaan\Downloads\AuroBank_SoftwareProject\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Riaan\Downloads\AuroBank_SoftwareProject\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Riaan\Downloads\AuroBank_SoftwareProject\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Riaan\Downloads\AuroBank_SoftwareProject\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Riaan\Downloads\AuroBank_SoftwareProject\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Riaan\Downloads\AuroBank_SoftwareProject\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Riaan\Downloads\AuroBank_SoftwareProject\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Riaan\Downloads\AuroBank_SoftwareProject\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Riaan\Downloads\AuroBank_SoftwareProject\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Riaan\Downloads\AuroBank_SoftwareProject\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Riaan\Downloads\AuroBank_SoftwareProject\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Riaan\Downloads\AuroBank_SoftwareProject\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Riaan\Downloads\AuroBank_SoftwareProject\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Riaan\Downloads\AuroBank_SoftwareProject\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Riaan\Downloads\AuroBank_SoftwareProject\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Riaan\Downloads\AuroBank_SoftwareProject\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Riaan\Downloads\AuroBank_SoftwareProject\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Riaan\Downloads\AuroBank_SoftwareProject\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Riaan\Downloads\AuroBank_SoftwareProject\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Riaan\Downloads\AuroBank_SoftwareProject\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Riaan\Downloads\AuroBank_SoftwareProject\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Riaan\Downloads\AuroBank_SoftwareProject\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Riaan\Downloads\AuroBank_SoftwareProject\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Riaan\Downloads\AuroBank_SoftwareProject\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Riaan\Downloads\AuroBank_SoftwareProject\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Riaan\Downloads\AuroBank_SoftwareProject\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Riaan\Downloads\AuroBank_SoftwareProject\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Riaan\Downloads\AuroBank_SoftwareProject\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Riaan\Downloads\AuroBank_SoftwareProject\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Riaan\Downloads\AuroBank_SoftwareProject\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Riaan\Downloads\AuroBank_SoftwareProject\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Riaan\Downloads\AuroBank_SoftwareProject\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Riaan\Downloads\AuroBank_SoftwareProject\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Riaan\Downloads\AuroBank_SoftwareProject\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Riaan\Downloads\AuroBank_SoftwareProject\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Riaan\Downloads\AuroBank_SoftwareProject\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Riaan\Downloads\AuroBank_SoftwareProject\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Riaan\Downloads\AuroBank_SoftwareProject\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Riaan\Downloads\AuroBank_SoftwareProject\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Riaan\Downloads\AuroBank_SoftwareProject\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Riaan\Downloads\AuroBank_SoftwareProject\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Riaan\Downloads\AuroBank_SoftwareProject\AuroBank_SoftwareProject\AuroBank_SoftwareProject\obj\Debug\net8.0\AuroBank_SoftwareProject.csproj.AssemblyReference.cache
+C:\Users\Riaan\Downloads\AuroBank_SoftwareProject\AuroBank_SoftwareProject\AuroBank_SoftwareProject\obj\Debug\net8.0\AuroBank_SoftwareProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Riaan\Downloads\AuroBank_SoftwareProject\AuroBank_SoftwareProject\AuroBank_SoftwareProject\obj\Debug\net8.0\AuroBank_SoftwareProject.AssemblyInfoInputs.cache
+C:\Users\Riaan\Downloads\AuroBank_SoftwareProject\AuroBank_SoftwareProject\AuroBank_SoftwareProject\obj\Debug\net8.0\AuroBank_SoftwareProject.AssemblyInfo.cs
+C:\Users\Riaan\Downloads\AuroBank_SoftwareProject\AuroBank_SoftwareProject\AuroBank_SoftwareProject\obj\Debug\net8.0\AuroBank_SoftwareProject.csproj.CoreCompileInputs.cache
+C:\Users\Riaan\Downloads\AuroBank_SoftwareProject\AuroBank_SoftwareProject\AuroBank_SoftwareProject\obj\Debug\net8.0\AuroBank_SoftwareProject.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Riaan\Downloads\AuroBank_SoftwareProject\AuroBank_SoftwareProject\AuroBank_SoftwareProject\obj\Debug\net8.0\AuroBank_SoftwareProject.RazorAssemblyInfo.cache
+C:\Users\Riaan\Downloads\AuroBank_SoftwareProject\AuroBank_SoftwareProject\AuroBank_SoftwareProject\obj\Debug\net8.0\AuroBank_SoftwareProject.RazorAssemblyInfo.cs
+C:\Users\Riaan\Downloads\AuroBank_SoftwareProject\AuroBank_SoftwareProject\AuroBank_SoftwareProject\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Riaan\Downloads\AuroBank_SoftwareProject\AuroBank_SoftwareProject\AuroBank_SoftwareProject\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Riaan\Downloads\AuroBank_SoftwareProject\AuroBank_SoftwareProject\AuroBank_SoftwareProject\obj\Debug\net8.0\staticwebassets\msbuild.AuroBank_SoftwareProject.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Riaan\Downloads\AuroBank_SoftwareProject\AuroBank_SoftwareProject\AuroBank_SoftwareProject\obj\Debug\net8.0\staticwebassets\msbuild.build.AuroBank_SoftwareProject.props
+C:\Users\Riaan\Downloads\AuroBank_SoftwareProject\AuroBank_SoftwareProject\AuroBank_SoftwareProject\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.AuroBank_SoftwareProject.props
+C:\Users\Riaan\Downloads\AuroBank_SoftwareProject\AuroBank_SoftwareProject\AuroBank_SoftwareProject\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.AuroBank_SoftwareProject.props
+C:\Users\Riaan\Downloads\AuroBank_SoftwareProject\AuroBank_SoftwareProject\AuroBank_SoftwareProject\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Riaan\Downloads\AuroBank_SoftwareProject\AuroBank_SoftwareProject\AuroBank_SoftwareProject\obj\Debug\net8.0\scopedcss\bundle\AuroBank_SoftwareProject.styles.css
+C:\Users\Riaan\Downloads\AuroBank_SoftwareProject\AuroBank_SoftwareProject\AuroBank_SoftwareProject\obj\Debug\net8.0\AuroBank.3E494776.Up2Date
+C:\Users\Riaan\Downloads\AuroBank_SoftwareProject\AuroBank_SoftwareProject\AuroBank_SoftwareProject\obj\Debug\net8.0\AuroBank_SoftwareProject.dll
+C:\Users\Riaan\Downloads\AuroBank_SoftwareProject\AuroBank_SoftwareProject\AuroBank_SoftwareProject\obj\Debug\net8.0\refint\AuroBank_SoftwareProject.dll
+C:\Users\Riaan\Downloads\AuroBank_SoftwareProject\AuroBank_SoftwareProject\AuroBank_SoftwareProject\obj\Debug\net8.0\AuroBank_SoftwareProject.pdb
+C:\Users\Riaan\Downloads\AuroBank_SoftwareProject\AuroBank_SoftwareProject\AuroBank_SoftwareProject\obj\Debug\net8.0\AuroBank_SoftwareProject.genruntimeconfig.cache
+C:\Users\Riaan\Downloads\AuroBank_SoftwareProject\AuroBank_SoftwareProject\AuroBank_SoftwareProject\obj\Debug\net8.0\ref\AuroBank_SoftwareProject.dll
+C:\Users\Riaan\Desktop\Web_Mobile Apps\Web\Projects\AuroBank_SoftwareProject\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Riaan\Desktop\Web_Mobile Apps\Web\Projects\AuroBank_SoftwareProject\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\appsettings.json
+C:\Users\Riaan\Desktop\Web_Mobile Apps\Web\Projects\AuroBank_SoftwareProject\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\libman.json
+C:\Users\Riaan\Desktop\Web_Mobile Apps\Web\Projects\AuroBank_SoftwareProject\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\AuroBank_SoftwareProject.staticwebassets.runtime.json
+C:\Users\Riaan\Desktop\Web_Mobile Apps\Web\Projects\AuroBank_SoftwareProject\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\AuroBank_SoftwareProject.exe
+C:\Users\Riaan\Desktop\Web_Mobile Apps\Web\Projects\AuroBank_SoftwareProject\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\AuroBank_SoftwareProject.deps.json
+C:\Users\Riaan\Desktop\Web_Mobile Apps\Web\Projects\AuroBank_SoftwareProject\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\AuroBank_SoftwareProject.runtimeconfig.json
+C:\Users\Riaan\Desktop\Web_Mobile Apps\Web\Projects\AuroBank_SoftwareProject\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\AuroBank_SoftwareProject.dll
+C:\Users\Riaan\Desktop\Web_Mobile Apps\Web\Projects\AuroBank_SoftwareProject\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\AuroBank_SoftwareProject.pdb
+C:\Users\Riaan\Desktop\Web_Mobile Apps\Web\Projects\AuroBank_SoftwareProject\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\Riaan\Desktop\Web_Mobile Apps\Web\Projects\AuroBank_SoftwareProject\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\Riaan\Desktop\Web_Mobile Apps\Web\Projects\AuroBank_SoftwareProject\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\Humanizer.dll
+C:\Users\Riaan\Desktop\Web_Mobile Apps\Web\Projects\AuroBank_SoftwareProject\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Riaan\Desktop\Web_Mobile Apps\Web\Projects\AuroBank_SoftwareProject\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Riaan\Desktop\Web_Mobile Apps\Web\Projects\AuroBank_SoftwareProject\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Riaan\Desktop\Web_Mobile Apps\Web\Projects\AuroBank_SoftwareProject\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Riaan\Desktop\Web_Mobile Apps\Web\Projects\AuroBank_SoftwareProject\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\Riaan\Desktop\Web_Mobile Apps\Web\Projects\AuroBank_SoftwareProject\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Riaan\Desktop\Web_Mobile Apps\Web\Projects\AuroBank_SoftwareProject\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Riaan\Desktop\Web_Mobile Apps\Web\Projects\AuroBank_SoftwareProject\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Riaan\Desktop\Web_Mobile Apps\Web\Projects\AuroBank_SoftwareProject\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\Riaan\Desktop\Web_Mobile Apps\Web\Projects\AuroBank_SoftwareProject\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\Microsoft.Data.Sqlite.dll
+C:\Users\Riaan\Desktop\Web_Mobile Apps\Web\Projects\AuroBank_SoftwareProject\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Riaan\Desktop\Web_Mobile Apps\Web\Projects\AuroBank_SoftwareProject\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Riaan\Desktop\Web_Mobile Apps\Web\Projects\AuroBank_SoftwareProject\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Riaan\Desktop\Web_Mobile Apps\Web\Projects\AuroBank_SoftwareProject\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Riaan\Desktop\Web_Mobile Apps\Web\Projects\AuroBank_SoftwareProject\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\Riaan\Desktop\Web_Mobile Apps\Web\Projects\AuroBank_SoftwareProject\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Riaan\Desktop\Web_Mobile Apps\Web\Projects\AuroBank_SoftwareProject\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Riaan\Desktop\Web_Mobile Apps\Web\Projects\AuroBank_SoftwareProject\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Riaan\Desktop\Web_Mobile Apps\Web\Projects\AuroBank_SoftwareProject\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Riaan\Desktop\Web_Mobile Apps\Web\Projects\AuroBank_SoftwareProject\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\Riaan\Desktop\Web_Mobile Apps\Web\Projects\AuroBank_SoftwareProject\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\Riaan\Desktop\Web_Mobile Apps\Web\Projects\AuroBank_SoftwareProject\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Riaan\Desktop\Web_Mobile Apps\Web\Projects\AuroBank_SoftwareProject\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Riaan\Desktop\Web_Mobile Apps\Web\Projects\AuroBank_SoftwareProject\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Riaan\Desktop\Web_Mobile Apps\Web\Projects\AuroBank_SoftwareProject\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Riaan\Desktop\Web_Mobile Apps\Web\Projects\AuroBank_SoftwareProject\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Riaan\Desktop\Web_Mobile Apps\Web\Projects\AuroBank_SoftwareProject\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Riaan\Desktop\Web_Mobile Apps\Web\Projects\AuroBank_SoftwareProject\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Riaan\Desktop\Web_Mobile Apps\Web\Projects\AuroBank_SoftwareProject\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\Riaan\Desktop\Web_Mobile Apps\Web\Projects\AuroBank_SoftwareProject\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Riaan\Desktop\Web_Mobile Apps\Web\Projects\AuroBank_SoftwareProject\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\Riaan\Desktop\Web_Mobile Apps\Web\Projects\AuroBank_SoftwareProject\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\SQLitePCLRaw.core.dll
+C:\Users\Riaan\Desktop\Web_Mobile Apps\Web\Projects\AuroBank_SoftwareProject\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\Riaan\Desktop\Web_Mobile Apps\Web\Projects\AuroBank_SoftwareProject\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\Riaan\Desktop\Web_Mobile Apps\Web\Projects\AuroBank_SoftwareProject\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\Riaan\Desktop\Web_Mobile Apps\Web\Projects\AuroBank_SoftwareProject\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\Riaan\Desktop\Web_Mobile Apps\Web\Projects\AuroBank_SoftwareProject\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\Riaan\Desktop\Web_Mobile Apps\Web\Projects\AuroBank_SoftwareProject\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\Riaan\Desktop\Web_Mobile Apps\Web\Projects\AuroBank_SoftwareProject\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Riaan\Desktop\Web_Mobile Apps\Web\Projects\AuroBank_SoftwareProject\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\Riaan\Desktop\Web_Mobile Apps\Web\Projects\AuroBank_SoftwareProject\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Riaan\Desktop\Web_Mobile Apps\Web\Projects\AuroBank_SoftwareProject\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\Riaan\Desktop\Web_Mobile Apps\Web\Projects\AuroBank_SoftwareProject\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\Riaan\Desktop\Web_Mobile Apps\Web\Projects\AuroBank_SoftwareProject\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Riaan\Desktop\Web_Mobile Apps\Web\Projects\AuroBank_SoftwareProject\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\Riaan\Desktop\Web_Mobile Apps\Web\Projects\AuroBank_SoftwareProject\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\System.Text.Json.dll
+C:\Users\Riaan\Desktop\Web_Mobile Apps\Web\Projects\AuroBank_SoftwareProject\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\Riaan\Desktop\Web_Mobile Apps\Web\Projects\AuroBank_SoftwareProject\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Riaan\Desktop\Web_Mobile Apps\Web\Projects\AuroBank_SoftwareProject\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Riaan\Desktop\Web_Mobile Apps\Web\Projects\AuroBank_SoftwareProject\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Riaan\Desktop\Web_Mobile Apps\Web\Projects\AuroBank_SoftwareProject\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Riaan\Desktop\Web_Mobile Apps\Web\Projects\AuroBank_SoftwareProject\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Riaan\Desktop\Web_Mobile Apps\Web\Projects\AuroBank_SoftwareProject\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Riaan\Desktop\Web_Mobile Apps\Web\Projects\AuroBank_SoftwareProject\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Riaan\Desktop\Web_Mobile Apps\Web\Projects\AuroBank_SoftwareProject\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Riaan\Desktop\Web_Mobile Apps\Web\Projects\AuroBank_SoftwareProject\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Riaan\Desktop\Web_Mobile Apps\Web\Projects\AuroBank_SoftwareProject\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Riaan\Desktop\Web_Mobile Apps\Web\Projects\AuroBank_SoftwareProject\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Riaan\Desktop\Web_Mobile Apps\Web\Projects\AuroBank_SoftwareProject\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Riaan\Desktop\Web_Mobile Apps\Web\Projects\AuroBank_SoftwareProject\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Riaan\Desktop\Web_Mobile Apps\Web\Projects\AuroBank_SoftwareProject\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Riaan\Desktop\Web_Mobile Apps\Web\Projects\AuroBank_SoftwareProject\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Riaan\Desktop\Web_Mobile Apps\Web\Projects\AuroBank_SoftwareProject\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Riaan\Desktop\Web_Mobile Apps\Web\Projects\AuroBank_SoftwareProject\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Riaan\Desktop\Web_Mobile Apps\Web\Projects\AuroBank_SoftwareProject\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Riaan\Desktop\Web_Mobile Apps\Web\Projects\AuroBank_SoftwareProject\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Riaan\Desktop\Web_Mobile Apps\Web\Projects\AuroBank_SoftwareProject\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Riaan\Desktop\Web_Mobile Apps\Web\Projects\AuroBank_SoftwareProject\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Riaan\Desktop\Web_Mobile Apps\Web\Projects\AuroBank_SoftwareProject\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Riaan\Desktop\Web_Mobile Apps\Web\Projects\AuroBank_SoftwareProject\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Riaan\Desktop\Web_Mobile Apps\Web\Projects\AuroBank_SoftwareProject\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Riaan\Desktop\Web_Mobile Apps\Web\Projects\AuroBank_SoftwareProject\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Riaan\Desktop\Web_Mobile Apps\Web\Projects\AuroBank_SoftwareProject\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Riaan\Desktop\Web_Mobile Apps\Web\Projects\AuroBank_SoftwareProject\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Riaan\Desktop\Web_Mobile Apps\Web\Projects\AuroBank_SoftwareProject\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Riaan\Desktop\Web_Mobile Apps\Web\Projects\AuroBank_SoftwareProject\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Riaan\Desktop\Web_Mobile Apps\Web\Projects\AuroBank_SoftwareProject\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Riaan\Desktop\Web_Mobile Apps\Web\Projects\AuroBank_SoftwareProject\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Riaan\Desktop\Web_Mobile Apps\Web\Projects\AuroBank_SoftwareProject\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Riaan\Desktop\Web_Mobile Apps\Web\Projects\AuroBank_SoftwareProject\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Riaan\Desktop\Web_Mobile Apps\Web\Projects\AuroBank_SoftwareProject\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Riaan\Desktop\Web_Mobile Apps\Web\Projects\AuroBank_SoftwareProject\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Riaan\Desktop\Web_Mobile Apps\Web\Projects\AuroBank_SoftwareProject\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Riaan\Desktop\Web_Mobile Apps\Web\Projects\AuroBank_SoftwareProject\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Riaan\Desktop\Web_Mobile Apps\Web\Projects\AuroBank_SoftwareProject\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Riaan\Desktop\Web_Mobile Apps\Web\Projects\AuroBank_SoftwareProject\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Riaan\Desktop\Web_Mobile Apps\Web\Projects\AuroBank_SoftwareProject\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Riaan\Desktop\Web_Mobile Apps\Web\Projects\AuroBank_SoftwareProject\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Riaan\Desktop\Web_Mobile Apps\Web\Projects\AuroBank_SoftwareProject\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Riaan\Desktop\Web_Mobile Apps\Web\Projects\AuroBank_SoftwareProject\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Riaan\Desktop\Web_Mobile Apps\Web\Projects\AuroBank_SoftwareProject\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Riaan\Desktop\Web_Mobile Apps\Web\Projects\AuroBank_SoftwareProject\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Riaan\Desktop\Web_Mobile Apps\Web\Projects\AuroBank_SoftwareProject\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Riaan\Desktop\Web_Mobile Apps\Web\Projects\AuroBank_SoftwareProject\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Riaan\Desktop\Web_Mobile Apps\Web\Projects\AuroBank_SoftwareProject\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Riaan\Desktop\Web_Mobile Apps\Web\Projects\AuroBank_SoftwareProject\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Riaan\Desktop\Web_Mobile Apps\Web\Projects\AuroBank_SoftwareProject\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Riaan\Desktop\Web_Mobile Apps\Web\Projects\AuroBank_SoftwareProject\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Riaan\Desktop\Web_Mobile Apps\Web\Projects\AuroBank_SoftwareProject\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Riaan\Desktop\Web_Mobile Apps\Web\Projects\AuroBank_SoftwareProject\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Riaan\Desktop\Web_Mobile Apps\Web\Projects\AuroBank_SoftwareProject\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Riaan\Desktop\Web_Mobile Apps\Web\Projects\AuroBank_SoftwareProject\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Riaan\Desktop\Web_Mobile Apps\Web\Projects\AuroBank_SoftwareProject\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Riaan\Desktop\Web_Mobile Apps\Web\Projects\AuroBank_SoftwareProject\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Riaan\Desktop\Web_Mobile Apps\Web\Projects\AuroBank_SoftwareProject\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Riaan\Desktop\Web_Mobile Apps\Web\Projects\AuroBank_SoftwareProject\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Riaan\Desktop\Web_Mobile Apps\Web\Projects\AuroBank_SoftwareProject\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Riaan\Desktop\Web_Mobile Apps\Web\Projects\AuroBank_SoftwareProject\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Riaan\Desktop\Web_Mobile Apps\Web\Projects\AuroBank_SoftwareProject\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Riaan\Desktop\Web_Mobile Apps\Web\Projects\AuroBank_SoftwareProject\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Riaan\Desktop\Web_Mobile Apps\Web\Projects\AuroBank_SoftwareProject\AuroBank_SoftwareProject\AuroBank_SoftwareProject\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Riaan\Desktop\Web_Mobile Apps\Web\Projects\AuroBank_SoftwareProject\AuroBank_SoftwareProject\AuroBank_SoftwareProject\obj\Debug\net8.0\AuroBank_SoftwareProject.csproj.AssemblyReference.cache
+C:\Users\Riaan\Desktop\Web_Mobile Apps\Web\Projects\AuroBank_SoftwareProject\AuroBank_SoftwareProject\AuroBank_SoftwareProject\obj\Debug\net8.0\AuroBank_SoftwareProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Riaan\Desktop\Web_Mobile Apps\Web\Projects\AuroBank_SoftwareProject\AuroBank_SoftwareProject\AuroBank_SoftwareProject\obj\Debug\net8.0\AuroBank_SoftwareProject.AssemblyInfoInputs.cache
+C:\Users\Riaan\Desktop\Web_Mobile Apps\Web\Projects\AuroBank_SoftwareProject\AuroBank_SoftwareProject\AuroBank_SoftwareProject\obj\Debug\net8.0\AuroBank_SoftwareProject.AssemblyInfo.cs
+C:\Users\Riaan\Desktop\Web_Mobile Apps\Web\Projects\AuroBank_SoftwareProject\AuroBank_SoftwareProject\AuroBank_SoftwareProject\obj\Debug\net8.0\AuroBank_SoftwareProject.csproj.CoreCompileInputs.cache
+C:\Users\Riaan\Desktop\Web_Mobile Apps\Web\Projects\AuroBank_SoftwareProject\AuroBank_SoftwareProject\AuroBank_SoftwareProject\obj\Debug\net8.0\AuroBank_SoftwareProject.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Riaan\Desktop\Web_Mobile Apps\Web\Projects\AuroBank_SoftwareProject\AuroBank_SoftwareProject\AuroBank_SoftwareProject\obj\Debug\net8.0\AuroBank_SoftwareProject.RazorAssemblyInfo.cache
+C:\Users\Riaan\Desktop\Web_Mobile Apps\Web\Projects\AuroBank_SoftwareProject\AuroBank_SoftwareProject\AuroBank_SoftwareProject\obj\Debug\net8.0\AuroBank_SoftwareProject.RazorAssemblyInfo.cs
+C:\Users\Riaan\Desktop\Web_Mobile Apps\Web\Projects\AuroBank_SoftwareProject\AuroBank_SoftwareProject\AuroBank_SoftwareProject\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Riaan\Desktop\Web_Mobile Apps\Web\Projects\AuroBank_SoftwareProject\AuroBank_SoftwareProject\AuroBank_SoftwareProject\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Riaan\Desktop\Web_Mobile Apps\Web\Projects\AuroBank_SoftwareProject\AuroBank_SoftwareProject\AuroBank_SoftwareProject\obj\Debug\net8.0\staticwebassets\msbuild.AuroBank_SoftwareProject.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Riaan\Desktop\Web_Mobile Apps\Web\Projects\AuroBank_SoftwareProject\AuroBank_SoftwareProject\AuroBank_SoftwareProject\obj\Debug\net8.0\staticwebassets\msbuild.build.AuroBank_SoftwareProject.props
+C:\Users\Riaan\Desktop\Web_Mobile Apps\Web\Projects\AuroBank_SoftwareProject\AuroBank_SoftwareProject\AuroBank_SoftwareProject\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.AuroBank_SoftwareProject.props
+C:\Users\Riaan\Desktop\Web_Mobile Apps\Web\Projects\AuroBank_SoftwareProject\AuroBank_SoftwareProject\AuroBank_SoftwareProject\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.AuroBank_SoftwareProject.props
+C:\Users\Riaan\Desktop\Web_Mobile Apps\Web\Projects\AuroBank_SoftwareProject\AuroBank_SoftwareProject\AuroBank_SoftwareProject\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Riaan\Desktop\Web_Mobile Apps\Web\Projects\AuroBank_SoftwareProject\AuroBank_SoftwareProject\AuroBank_SoftwareProject\obj\Debug\net8.0\scopedcss\bundle\AuroBank_SoftwareProject.styles.css
+C:\Users\Riaan\Desktop\Web_Mobile Apps\Web\Projects\AuroBank_SoftwareProject\AuroBank_SoftwareProject\AuroBank_SoftwareProject\obj\Debug\net8.0\AuroBank.3E494776.Up2Date
+C:\Users\Riaan\Desktop\Web_Mobile Apps\Web\Projects\AuroBank_SoftwareProject\AuroBank_SoftwareProject\AuroBank_SoftwareProject\obj\Debug\net8.0\AuroBank_SoftwareProject.dll
+C:\Users\Riaan\Desktop\Web_Mobile Apps\Web\Projects\AuroBank_SoftwareProject\AuroBank_SoftwareProject\AuroBank_SoftwareProject\obj\Debug\net8.0\refint\AuroBank_SoftwareProject.dll
+C:\Users\Riaan\Desktop\Web_Mobile Apps\Web\Projects\AuroBank_SoftwareProject\AuroBank_SoftwareProject\AuroBank_SoftwareProject\obj\Debug\net8.0\AuroBank_SoftwareProject.pdb
+C:\Users\Riaan\Desktop\Web_Mobile Apps\Web\Projects\AuroBank_SoftwareProject\AuroBank_SoftwareProject\AuroBank_SoftwareProject\obj\Debug\net8.0\AuroBank_SoftwareProject.genruntimeconfig.cache
+C:\Users\Riaan\Desktop\Web_Mobile Apps\Web\Projects\AuroBank_SoftwareProject\AuroBank_SoftwareProject\AuroBank_SoftwareProject\obj\Debug\net8.0\ref\AuroBank_SoftwareProject.dll

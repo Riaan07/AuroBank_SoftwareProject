@@ -1,0 +1,104 @@
+﻿@model UserPageViewModel
+@{
+    ViewData["Title"] = "Edit Profile";
+}
+
+<div class="wrapper">
+    <nav class="navbar navbar-expand-lg navbar-light bg-light">
+        <div class="container-fluid">
+            <a class="navbar-brand" href="#">Holdings Tech</a>
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarNav">
+                <ul class="navbar-nav">
+                    <li class="nav-item">
+                        <a asp-action="Users" class="nav-link">
+                            <i class="lni lni-user"></i> Manage Users
+                        </a>
+                    </li>
+                    <li class="nav-item">
+                        <a href="#" class="nav-link">
+                            <i class="lni lni-agenda"></i> Manage Consultants
+                        </a>
+                    </li>
+                    <li class="nav-item">
+                        <a href="#" class="nav-link">
+                            <i class="lni lni-popup"></i> Notifications
+                        </a>
+                    </li>
+                    <li class="nav-item">
+                        <a href="#" class="nav-link">
+                            <i class="lni lni-cog"></i> Logout
+                        </a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+
+    <div class="main">
+        <main class="content px-3 py-4">
+            <div class="container-fluid">
+                <div class="mb-3">
+                    <h3 class="fw-bold fs-4 mb-3">Manage Users</h3>
+                    <div class="row">
+                        <div class="col-12">
+                            <table class="table table-striped">
+                                <thead>
+                                    <tr class="highlight">
+                                        <th scope="col">#</th>
+                                        <th scope="col">First Name</th>
+                                        <th scope="col">Last Name</th>
+                                        <th scope="col">Account No</th>
+                                        <th scope="col">Balance</th>
+                                        <th scope="col">Actions</th>
+                                    </tr>
+                                </thead>
+                                <tbody>
+                                    @if (Model.AppUsers.Count == 0)
+                                    {
+                                        <tr>
+                                            <td colspan="6" class="text-center">
+                                                <i class="fas fa-exclamation-triangle red-icon"></i> No users found
+                                            </td>
+                                        </tr>
+                                    }
+                                    @for (int i = 0; i < Model.AppUsers.Count; i++)
+                                    {
+                                        var user = Model.AppUsers[i];
+                                        <tr>
+                                            <th scope="row">@i + 1</th>
+                                            <td>@user.AppUser.FirstName</td>
+                                            <td>@user.AppUser.LastName</td>
+                                            <td>@user.AppUser.AccountNumber</td>
+                                            <td>R @user.BankAccount.Balance</td>
+
+                                        </tr>
+                                    }
+                                </tbody>
+                            </table>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </main>
+
+        <footer class="footer">
+            <div class="container-fluid">
+                <div class="row text-body-secondary">
+                    <div class="col-6 text-start">
+                        <a class="text-body-secondary" href="#">
+
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </footer>
+    </div>
+</div>
+
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"
+        integrity="sha384-C6RzsynM9kWDrMNeT87bh95OGNyZPhcTNXj1NW7RuBCsyN/o0jlpcV8Qyq46cDfL"
+        crossorigin="anonymous"></script>
+<script src="script.js"></script>

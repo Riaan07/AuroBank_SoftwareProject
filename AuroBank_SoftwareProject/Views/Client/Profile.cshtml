@@ -1,0 +1,86 @@
+﻿@* @model ProfileViewModel
+
+<div class="d-flex justify-content-center align-items-center min-vh-100">
+    <div class="card text-center shadow p-3 mb-5 bg-white rounded" style="width: 25rem;">
+        <div class="card-header bg-primary text-white">
+            <h4>User Details</h4>
+        </div>
+        <div class="card-body">
+            <div class="row my-2">
+                <div class="col-2">
+                    <i class="fas fa-user fa-lg"></i>
+                </div>
+                <div class="col-10 text-left">
+                    <p><strong>First Name: </strong> @Model.FirstName</p>
+                </div>
+            </div>
+            <div class="row my-2">
+                <div class="col-2">
+                    <i class="fas fa-user fa-lg"></i>
+                </div>
+                <div class="col-10 text-left">
+                    <p><strong>Last Name: </strong> @Model.LastName</p>
+                </div>
+            </div>
+            <div class="row my-2">
+                <div class="col-2">
+                    <i class="fas fa-user-circle fa-lg"></i>
+                </div>
+                <div class="col-10 text-left">
+                    <p><strong>Username: </strong> @Model.UserName</p>
+                </div>
+            </div>
+            <div class="row my-2">
+                <div class="col-2">
+                    <i class="fas fa-id-card fa-lg"></i>
+                </div>
+                <div class="col-10 text-left">
+                    <p><strong>ID Number: </strong> @Model.IDNumber</p>
+                </div>
+            </div>
+            <div class="row my-2">
+                <div class="col-2">
+                    <i class="fas fa-mobile-alt fa-lg"></i>
+                </div>
+                <div class="col-10 text-left">
+                    <p><strong>Mobile Number: </strong> @Model.MobileNumber</p>
+                </div>
+            </div>
+            <div class="row my-2">
+                <div class="col-2">
+                    <i class="fas fa-envelope fa-lg"></i>
+                </div>
+                <div class="col-10 text-left">
+                    <p><strong>Email: </strong> @Model.Email</p>
+                </div>
+            </div>
+            <div class="row my-2">
+                <div class="col-2">
+                    <i class="fas fa-home fa-lg"></i>
+                </div>
+                <div class="col-10 text-left">
+                    <p><strong>Residential Address: </strong> @Model.ResidentialAddress</p>
+                </div>
+            </div>
+            <div class="row my-2">
+                <div class="col-2">
+                    <i class="fas fa-university fa-lg"></i>
+                </div>
+                <div class="col-10 text-left">
+                    <p><strong>Account Number: </strong> @Model.AccountNumber</p>
+                </div>
+            </div>
+        </div>
+        <div class="card-footer bg-primary text-white">
+            <p class="mb-0">UFS Online Banking</p>
+        </div>
+    </div>
+    <div class="text-center">
+        <a type="submit" asp-action="Update" asp-controller="User" asp-route-id="@Model.UserName" class="btn btn-primary btn-block">Update Profile</a>
+    </div>
+</div> *@
+
+
+                
+
+        

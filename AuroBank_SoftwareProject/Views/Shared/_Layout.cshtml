@@ -1,0 +1,190 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewBag.Title - AuroBank Online Banking </title>
+
+    <link rel="stylesheet" asp-href-include="/lib/bootstrap/css/bootstrap.min.css" />
+    <link rel="stylesheet" asp-href-include="/lib/font-awesome/css/all.min.css" />
+    <link rel="stylesheet" asp-href-include="/css/custom.css" />
+    <link rel="stylesheet" asp-href-include="/css/site.css" /> 
+
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css"> 
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/5.3.0/css/bootstrap.min.css">
+   
+
+</head>
+<body >
+    <nav class="navbar navbar-expand-sm navbar-info text-bg-success">
+        <div class="container-fluid">
+            <a class="navbar-brand">AuroBank</a>
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#mynavbar">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+
+            <div class="collapse navbar-collapse" id="mynavbar">
+                <ul class="navbar-nav me-auto">
+                    <li class="nav-item">
+                        <a class="nav-link" asp-controller="Home" asp-action="Index">Home</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" asp-controller="Home" asp-action="Services">Services</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" asp-controller="Home" asp-action="About">About</a>
+                    </li>
+                
+
+                 @if (User.IsInRole("User"))
+                        {
+                            <li class="nav-item">
+                                <a class="nav-link text-dark" asp-area="" asp-controller="Client" asp-action="Index">
+                                    <i class="fas fa-user"></i> User Dashboard
+                                </a>
+                            </li>
+                           
+                           
+                        }
+                        @if (User.IsInRole("Admin"))
+                        {
+                            <li class="nav-item">
+                                <a class="nav-link text-dark" asp-area="" asp-controller="Admin" asp-action="Index">
+                                    <i class="fas fa-cogs"></i> Admin Dashboard
+                                </a>
+                            </li>
+@* 
+                            <li class="nav-item">
+                                <a asp-action="UpdateProfile" asp-controller="Account" class="nav-link text-dark" style="text-align: center;">
+                                    Update Profile
+                                </a>
+                            </li> *@
+                        }
+
+                        @if (User.IsInRole("Consultant"))
+                        {
+                            <li class="nav-item">
+                                <a class="nav-link text-dark" asp-area="" asp-controller="Consultant" asp-action="Index">
+                                    <i class="fas fa-cogs"></i> Consultant Admin
+                                </a>
+                            </li>
+
+                            @* <li class="nav-item">
+                                <a asp-action="UpdateProfile" asp-controller="Account" class="nav-link text-dark" style="text-align: center;">
+                                    Update Profile
+                                </a>
+                            </li> *@
+                        }
+                        @if (User.IsInRole("Advisor"))
+                        {
+                            <li class="nav-item">
+                                <a class="nav-link text-dark" asp-area="" asp-controller="Advisor" asp-action="Index">
+                                    <i class="fas fa-cogs"></i> Financial Admin
+                                </a>
+                            </li>
+
+                          @*   <li class="nav-item">
+                                <a asp-action="UpdateProfile" asp-controller="Account" class="nav-link text-dark" style="text-align: center;">
+                                    Update Profile
+                                </a>
+                            </li> *@
+                        }
+                    </ul>
+
+                    <div class=" d-flex ms-auto">
+                        @if (!User.Identity.IsAuthenticated)
+                        {
+                        <a asp-action="Login" asp-controller="Account" class="btn btn-outline-info text-body bg-light ">
+                                Login
+                            </a>
+                        <a asp-action="Register" asp-controller="Account" class="btn btn-outline-light bg-success">
+                                Sign Up
+                            </a>
+                        }
+                        else
+                        {
+                            @if (User.Identity.IsAuthenticated)
+                            {
+                                <div class="nav-link ">Welcome, @User.Identity.Name  </div>
+
+                               
+                                    <div>
+                                        <a class="btn btn-outline-light bg-dark" asp-action="Logout" asp-controller="Account">
+                                        Logout
+                                    </a>
+                                    </div>
+                               
+                            }
+                           
+                        }
+                    </div>
+            </div>
+        </div>
+    </nav>
+
+
+    
+    <div>
+        @RenderBody()
+    </div>
+
+
+
+
+    <footer class="border-top footer text-muted py-3 bg-success">
+        
+            <div class="row">
+                <!-- Logo and Company Information -->
+                <div class="col-md-4 mb-4 d-flex align-items-center">
+                    <!-- Logo Image -->
+                    <img src="/images/UfsLogo.png" alt="UFS Bank Logo" class="me-3" style="width: 150px; height: auto;">
+                    <!-- Company Information -->
+                    <div>
+                        <h5>UFS Bank</h5>
+                        <p class="text-light">
+                            Your trusted partner in banking solutions. Providing secure, reliable, and convenient banking services for students, staff, and clients across the University of the Free State.
+                        </p>
+                    </div>
+                </div>
+
+                <!-- Quick Links -->
+                <div class="col-md-2 mb-4">
+                    <h5>Quick Links</h5>
+                    <ul class="list-unstyled">
+                        <li><a href="/Contact" class="text-light text-decoration-none">Contact</a></li>
+                        <li><a href="/Help" class="text-light text-decoration-none">Help Center</a></li>
+                        <li><a href="/Careers" class="text-light text-decoration-none">Careers</a></li>
+                    </ul>
+                </div>
+
+                <!-- Services -->
+                <div class="col-md-2 mb-4">
+                    <h5>Services</h5>
+                    <ul class="list-unstyled">
+                        <li><a href="/OnlineBanking" class="text-light text-decoration-none">Online Banking</a></li>
+                        <li><a href="/Loans" class="text-light text-decoration-none">UFS Page</a></li>
+                    </ul>
+                </div>
+
+                <!-- Follow Us -->
+                <div class="col-md-4 mb-4">
+                    <h5>Follow Us</h5>
+                    <p>Stay connected with us on social media:</p>
+                    <a href="#" class="text-light me-3">
+                        <i class="fab fa-facebook fa-2x"></i>
+                    </a>
+                    <a href="#" class="text-light me-3">
+                        <i class="fab fa-linkedin fa-2x"></i>
+                    </a>
+                </div>
+           
+        </div>
+    </footer>
+
+
+  
+
+    <script asp-src-include="/lib/bootstrap/js/bootstrap.bundle.min.js"></script>
+</body>
+</html>
+

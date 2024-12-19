@@ -1,0 +1,101 @@
+﻿@model List<AppUser>
+@{
+    ViewData["Title"] = "Edit-Profile";
+}
+
+<!-- Top Navigation Menu -->
+<nav class="navbar navbar-expand-lg navbar-light bg-light">
+    <div class="container-fluid">
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarNav">
+            <ul class="navbar-nav mx-auto">
+                <li class="nav-item">
+                    <a asp-action="Users" class="nav-link">
+                        <i class="lni lni-user"></i>
+                        <span>Manage Users</span>
+                    </a>
+                </li>
+                <li class="nav-item">
+                    <a href="#" class="nav-link">
+                        <i class="lni lni-agenda"></i>
+                        <span>Manage Consultants</span>
+                    </a>
+                </li>
+                <li class="nav-item">
+                    <a href="#" class="nav-link">
+                        <i class="lni lni-popup"></i>
+                        <span>Notification</span>
+                    </a>
+                </li>
+                <li class="nav-item">
+                    <a href="#" class="nav-link">
+                        <i class="lni lni-cog"></i>
+                        <span>Logout</span>
+                    </a>
+                </li>
+            </ul>
+        </div>
+    </div>
+</nav>
+
+<!-- Page Wrapper -->
+<div class="container-fluid">
+    <div class="main">
+        <main class="content px-3 py-4">
+            <div class="container-fluid">
+                <div class="mb-3">
+                    <h3 class="fw-bold fs-4 mb-3">Manage Consultants</h3>
+                    <div class="row">
+                        @if (Model.Count == 0)
+                        {
+                            <div class="col-12 text-center">
+                                <i class="fas fa-exclamation-triangle red-icon"></i> No users Found
+                            </div>
+                        }
+                        else
+                        {
+                            @foreach (var user in Model)
+                            {
+                                <div class="col-md-4">
+                                    <div class="card shadow-sm mb-4">
+                                        <div class="card-body">
+                                            <h5 class="card-title">
+                                                @user.FirstName @user.LastName
+                                            </h5>
+                                            <p class="card-text">
+                                                <strong>Account No:</strong> "find what to put here" <br />
+                                                <strong>Balance:</strong> "to put here"
+                                            </p>
+                                            <div class="d-flex justify-content-between">
+                                                <a href="#" class="btn btn-info btn-sm">
+                                                    <i class="fa-solid fa-pen-to-square"></i> Edit
+                                                </a>
+                                                <a href="#" class="btn btn-danger btn-sm">
+                                                    <i class="fa-solid fa-trash"></i> Delete
+                                                </a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            }
+                        }
+                    </div>
+                </div>
+            </div>
+        </main>
+
+        <footer class="footer">
+            <div class="container-fluid">
+                <div class="row text-body-secondary">
+                    <div class="col-6 text-start">
+                        <a class="text-body-secondary" href="#">
+                            <strong>Holdings Tech</strong>
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </footer>
+    </div>
+</div>

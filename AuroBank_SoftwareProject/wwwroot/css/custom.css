@@ -1,0 +1,96 @@
+﻿body {
+    /*background-color: lightgray;*/
+    /*background-image: url('../images/Card.png');*/
+}
+footer {
+    background-color: #333;
+    color: white;
+    padding: 20px 0;
+}
+
+    footer a {
+        color: #fff;
+        text-decoration: underline;
+    }
+
+.reviews-section {
+    margin-top: 30px;
+}
+
+.comment-box {
+    background-color: #f8f9fa;
+    padding: 15px;
+    border-radius: 10px;
+    margin-top: 10px;
+}
+textarea#userComment {
+    height: 80px; /* Reduced height */
+    padding: 8px; /* Adjust padding for compactness */
+}
+
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #f4f7fa;
+}
+
+.hero-section {
+    background: url('https://via.placeholder.com/1200x500') no-repeat center center;
+    height: 500px;
+    position: relative;
+}
+
+.hero-overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.hero-text {
+    color: white;
+    text-align: center;
+}
+
+    .hero-text h1 {
+        font-size: 48px;
+        animation: fadeInDown 1s ease-out;
+    }
+
+    .hero-text p {
+        font-size: 20px;
+        animation: fadeInUp 1s ease-out;
+    }
+
+.service-card:hover {
+    transform: translateY(-10px);
+    transition: 0.3s ease-in-out;
+}
+
+@keyframes fadeInDown {
+    from {
+        opacity: 0;
+        transform: translateY(-20px);
+    }
+
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+@keyframes fadeInUp {
+    from {
+        opacity: 0;
+        transform: translateY(20px);
+    }
+
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
